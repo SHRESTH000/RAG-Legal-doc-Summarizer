@@ -1,0 +1,100 @@
+{
+  "total_judgments": 3,
+  "successful": 3,
+  "model": "mistral",
+  "generated_at": "2026-01-13T19:41:05.636083",
+  "summaries": [
+    {
+      "case_number": "2024_10_1890_1901_EN",
+      "judgment_id": 30,
+      "title": "[2024] 10 S.C.R. 1890 : 2024 INSC 918 Bijay Agarwal  v.",
+      "date": "2024-01-09",
+      "court": "Supreme Court of India",
+      "year": 2024,
+      "summary": "Case Summary:\nThe case involves Bijay Agarwal who appealed against orders passed by the Principal City Civil & Sessions Judge at Bangalore in Criminal Appeals Nos. 1537/2023 and 1536/2023, which imposed a condition to deposit 20% of the fine amount payable under CC Nos. 13937/2023 and 13938/2013.\n\nKey Issues:\n- Whether the Appellate Court should have considered exceptional circumstances before exempting the appellant from depositing the fine amount.\n- Whether the High Court failed to consider crucial aspects while considering the suspension of sentence for the conviction under Section 138 of the Negotiable Instruments Act.\n\nLegal Analysis:\nThe Supreme Court held that the Appellate Court should have considered whether the case falls within exceptional circumstances before exempting the appellant from depositing the fine amount payable under Section 148(1) of the Negotiable Instruments Act. The court also found that the High Court failed to consider crucial aspects while considering the suspension of sentence for the conviction under Section 138 of the Negotiable Instruments Act in the pending appeal.\n\nThe court further stated that the First Appellate Court shall endeavor to dispose of the appeals expeditiously and allowed the appeals as above. The pending applications, if any, shall stand disposed of.\n\nRelevant Sections:\n- Negotiable Instruments Act Section 138, 148\n\nJudgment:\nAccordingly, the orders dated 10.11.2023 passed by the Principal City Civil & Sessions Judge at Bangalore respectively in Criminal Appeal Nos. 1537/2023 and 1536/2023 stands quashed and set aside to the extent it put the condition to deposit of 20% of the fine amount payable under orders in CC Nos. 13937/2023 and 13938/2013, passed by the Court of XXXVI Additional Chief Metropolitan Magistrate, Bangalore City. The orders dated 10.1",
+      "summary_result": {
+        "case_summary": " The case involves Bijay Agarwal who appealed against orders passed by the Principal City Civil & Sessions Judge at Bangalore in Criminal Appeals Nos. 1537/2023 and 1536/2023, which imposed a condition to deposit 20% of the fine amount payable under CC Nos. 13937/2023 and 13938/2013.",
+        "key_issues": [
+          "Whether the Appellate Court should have considered exceptional circumstances before exempting the appellant from depositing the fine amount.",
+          "Whether the High Court failed to consider crucial aspects while considering the suspension of sentence for the conviction under Section 138 of the Negotiable Instruments Act."
+        ],
+        "legal_analysis": " The Supreme Court held that the Appellate Court should have considered whether the case falls within exceptional circumstances before exempting the appellant from depositing the fine amount payable under Section 148(1) of the Negotiable Instruments Act. The court also found that the High Court failed to consider crucial aspects while considering the suspension of sentence for the conviction under Section 138 of the Negotiable Instruments Act in the pending appeal. The court further stated that the First Appellate Court shall endeavor to dispose of the appeals expeditiously and allowed the appeals as above. The pending applications, if any, shall stand disposed of.",
+        "relevant_sections": [
+          "Negotiable Instruments Act Section 138, 148"
+        ],
+        "judgment": " Accordingly, the orders dated 10.11.2023 passed by the Principal City Civil & Sessions Judge at Bangalore respectively in Criminal Appeal Nos. 1537/2023 and 1536/2023 stands quashed and set aside to the extent it put the condition to deposit of 20% of the fine amount payable under orders in CC Nos. 13937/2023 and 13938/2013, passed by the Court of XXXVI Additional Chief Metropolitan Magistrate, Bangalore City. The orders dated 10.1"
+      },
+      "rag_metadata": {
+        "entities_found": 10,
+        "chunks_retrieved": 5,
+        "dark_zones_found": 0,
+        "legal_sections_retrieved": false
+      },
+      "compression_ratio": 0.3668,
+      "generated_at": "2026-01-13T19:38:32.567142",
+      "model": "mistral"
+    },
+    {
+      "case_number": "2023_10_842_847_EN",
+      "judgment_id": 61,
+      "title": "A B C",
+      "date": "2023-03-30",
+      "court": "Supreme Court of India",
+      "year": 2023,
+      "summary": "Case Summary: The case involves a challenge to the jurisdiction of the National Investigation Agency (NIA) in investigating certain cases, specifically six FIRs registered between March 30 and April 3, 2023, which were initially handled by state police authorities.\n\nKey Issues:\n- Whether the Central Government has the power to handover investigation to the NIA once it has been completed by the District Police (Issue 1)\n- Whether the Order of Sanction dated July 22, 2020, issued under Section 45(2) of UAPA suffers from any illegality (Issue 2)\n- Whether the order taking cognizance against the petitioner under Sections 120B IPC, 17 UAPA, and 17 CLA Act, 1908 is valid (Issue 3)\n\nLegal Analysis: The court determined that the NIA has exercised its jurisdiction specifically with reference to its powers under Section 6(5) of the National Investigation Agency Act, 2008. The court clarified that it is not called upon to decide on the sufficiency of the allegations or their veracity but rather whether the exercise of jurisdiction by the Central Government under Section 6(5) is valid.\n\nJudgment: The Special Leave Petitions were disposed of, and the observations made by the High Court in the impugned order would be confined to the question as to whether the exercise of jurisdiction by the NIA under the National Investigation Agency Act, 2008 is valid. For these reasons, the court affirmed the judgment of the High Court.\n\nKey Entities:\n- Parties: The State of West Bengal & Ors., Suvendu Adhikari & Ors.\n- Judges: Dr. Dhananjay A Y Chandrachud (CJI)\n- Case Number: 2023_10_842_847_EN\n- Date: March 30, 2023 (notification), May 8, 2023 (registration of FIRs), April 27, 2023 (High Court directions), and May 11, 2023 (cognizance taken",
+      "summary_result": {
+        "case_summary": "The case involves a challenge to the jurisdiction of the National Investigation Agency (NIA) in investigating certain cases, specifically six FIRs registered between March 30 and April 3, 2023, which were initially handled by state police authorities.",
+        "key_issues": [
+          "Whether the Central Government has the power to handover investigation to the NIA once it has been completed by the District Police (Issue 1)",
+          "Whether the Order of Sanction dated July 22, 2020, issued under Section 45(2) of UAPA suffers from any illegality (Issue 2)",
+          "Whether the order taking cognizance against the petitioner under Sections 120B IPC, 17 UAPA, and 17 CLA Act, 1908 is valid (Issue 3)"
+        ],
+        "legal_analysis": "The court determined that the NIA has exercised its jurisdiction specifically with reference to its powers under Section 6(5) of the National Investigation Agency Act, 2008. The court clarified that it is not called upon to decide on the sufficiency of the allegations or their veracity but rather whether the exercise of jurisdiction by the Central Government under Section 6(5) is valid.",
+        "relevant_sections": [],
+        "judgment": "The Special Leave Petitions were disposed of, and the observations made by the High Court in the impugned order would be confined to the question as to whether the exercise of jurisdiction by the NIA under the National Investigation Agency Act, 2008 is valid. For these reasons, the court affirmed the judgment of the High Court."
+      },
+      "rag_metadata": {
+        "entities_found": 0,
+        "chunks_retrieved": 5,
+        "dark_zones_found": 0,
+        "legal_sections_retrieved": false
+      },
+      "compression_ratio": 0.3488,
+      "generated_at": "2026-01-13T19:39:50.985440",
+      "model": "mistral"
+    },
+    {
+      "case_number": "2023_10_1147_1154_EN",
+      "judgment_id": 36,
+      "title": "A B C",
+      "date": "2022-09-02",
+      "court": "Supreme Court of India",
+      "year": 2022,
+      "summary": "Case Summary:\nThe case involves Divya Pandey, who was arrested on June 25, 2022, following an FIR registered for offenses under various sections of the Indian Penal Code (IPC). The allegations against her stem from events that took place after a judgment delivered by the Supreme Court of India on June 24, 2022, in the case of Zakia Ahsan Jafri v. State of Gujarat.\n\nKey Issues:\n- Whether Divya Pandey is guilty of the offenses mentioned in the FIR (Sections 468, 469, 471, 194, 211, 218, and 120B of the IPC)?\n- Has Divya Pandey attempted or may attempt to influence witnesses in the case?\n- Will any observations made by the Supreme Court in its orders influence the trial court at the stage of the trial?\n\nLegal Analysis:\nThe primary issue in this case revolves around the allegations against Divya Pandey under various sections of the IPC, particularly Sections 468 (forgery for purpose of cheating), 469 (forgery), 471 (using as genuine a forged document or electronic record), 194 (non-appearance when legally summoned), 211 (offenses against public justice), 218 (public servant framing innocent person for offense) and 120B (conspiracy).\n\nThe second issue concerns the potential influence of Divya Pandey on witnesses, as the Supreme Court has ordered her to not make any attempts to do so and to remain away from them. The court also stated that if the prosecution feels any such attempt is made by the appellant, they can move the court directly for modification of orders.\n\nLastly, the court clarified that none of its observations in the impugned order or any of its previous orders would influence the trial court at the stage of the trial.\n\nRelevant Sections:\n- IPC Section 468, 469, 471, 194, 211, 218, and 120B\n- CrPC (Criminal Procedure Code) sections not explicitly mentioned\n- Evidence",
+      "summary_result": {
+        "case_summary": " The case involves Divya Pandey, who was arrested on June 25, 2022, following an FIR registered for offenses under various sections of the Indian Penal Code (IPC). The allegations against her stem from events that took place after a judgment delivered by the Supreme Court of India on June 24, 2022, in the case of Zakia Ahsan Jafri v. State of Gujarat.",
+        "key_issues": [
+          "Whether Divya Pandey is guilty of the offenses mentioned in the FIR (Sections 468, 469, 471, 194, 211, 218, and 120B of the IPC)?",
+          "Has Divya Pandey attempted or may attempt to influence witnesses in the case?",
+          "Will any observations made by the Supreme Court in its orders influence the trial court at the stage of the trial?"
+        ],
+        "legal_analysis": " The primary issue in this case revolves around the allegations against Divya Pandey under various sections of the IPC, particularly Sections 468 (forgery for purpose of cheating), 469 (forgery), 471 (using as genuine a forged document or electronic record), 194 (non-appearance when legally summoned), 211 (offenses against public justice), 218 (public servant framing innocent person for offense) and 120B (conspiracy). The second issue concerns the potential influence of Divya Pandey on witnesses, as the Supreme Court has ordered her to not make any attempts to do so and to remain away from them. The court also stated that if the prosecution feels any such attempt is made by the appellant, they can move the court directly for modification of orders. Lastly, the court clarified that none of its observations in the impugned order or any of its previous orders would influence the trial court at the stage of the trial.",
+        "relevant_sections": [
+          "IPC Section 468, 469, 471, 194, 211, 218, and 120B",
+          "CrPC (Criminal Procedure Code) sections not explicitly mentioned",
+          "Evidence"
+        ],
+        "judgment": ""
+      },
+      "rag_metadata": {
+        "entities_found": 13,
+        "chunks_retrieved": 5,
+        "dark_zones_found": 0,
+        "legal_sections_retrieved": false
+      },
+      "compression_ratio": 0.361,
+      "generated_at": "2026-01-13T19:41:05.635577",
+      "model": "mistral"
+    }
+  ]
+}

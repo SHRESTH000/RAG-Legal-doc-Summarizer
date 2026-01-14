@@ -1,0 +1,153 @@
+================================================================================
+BASE PAPER CONTENT (First 10000 characters)
+================================================================================
+
+Academic Editor: Jie Y ang
+Received: 12 March 2025
+Revised: 15 April 2025
+Accepted: 17 April 2025
+Published: 23 April 2025
+Citation: Ajay Mukund, S.;
+Easwarakumar , K.S. Optimizing Legal
+T ext Summarization Through
+Dynamic Retrieval-Augmented
+Generation and Domain-Speciﬁc
+Adaptation. Symmetry 2025, 17, 633.
+https://doi.org/10.3390/
+sym17050633
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+Optimizing Legal T ext Summarization Through Dynamic
+Retrieval-Augmented Generation and
+Domain-Speciﬁc Adaptation
+S Ajay Mukund * ,†
+and K. S. Easwarakumar †
+Department of Computer Science and Engineering, College of Engineering Guindy , Anna University ,
+Chennai 600025, India; easwara@annauniv .edu
+* Correspondence: ajaymukund1998@gmail.com
+† These authors contributed equally to this work.
+Abstract: Legal text summarization presents distinct challenges due to the intricate and
+domain-speciﬁc nature of legal language. This paper introduces a novel framework inte-
+grating dynamic Retrieval-Augmented Generation (RAG) with domain-speciﬁc adaptation
+to enhance the accuracy and contextual relevance of legal document summaries. The
+proposed Dynamic Legal RAG system achieves a vital form of symmetry between infor-
+mation retrieval and content generation, ensuring that retrieved legal knowledge is both
+comprehensive and precise. Using the BM25 retriever with top-3 chunk selection, the sys-
+tem optimizes relevance and efﬁciency , minimizing redundancy while maximizing legally
+pertinent content. with top-3 chunk selection, the system optimizes relevance and efﬁ-
+ciency , minimizing redundancy while maximizing legally pertinent content. A key design
+feature is the compression ratio constraint (0.05 to 0.5), maintaining structural symmetry be-
+tween the original judgment and its summary by balancing representation and information
+density . Extensive evaluations establish BM25 as the most effective retriever , striking an
+optimal balance between precision and recall. A comparative analysis of transformer-based
+(Decoder-only) models—DeepSeek-7B, LLaMA 2-7B, and LLaMA 3.1-8B—demonstrates
+that LLaMA 3.1-8B, enriched with Legal Named Entity Recognition (NER) and the Dynamic
+RAG system, achieves superior performance with a BERTScore of 0.89. This study lays
+a strong foundation for future research in hybrid retrieval models, adaptive chunking
+strategies, and legal-speciﬁc evaluation metrics, with practical implications for case law
+analysis and automated legal drafting.
+Keywords: legal text summarization; domain-speciﬁc adaptation; Retrieval-Augmented
+Generation; BM25 retriever; Decoder-only language models
+1. Introduction
+The proliferation of legal documents and judicial rulings has underscored the need
+for sophisticated systems capable of efﬁciently retrieving and summarizing relevant legal
+information. Legal texts are often characterized by their verbosity and intricate references
+to statutes, provisions, and precedents, making the task of distilling essential information
+both time-consuming and prone to factual inaccuracies. T raditional Natural Language
+Processing (NLP) models, despite their advances, struggle with the speciﬁcity and for-
+malism of legal language, leading to challenges in maintaining factual consistency and
+contextual integrity .
+Symmetry 2025, 17, 633 https://doi.org/10.3390/sym17050633Symmetry 2025, 17, 633 2 of 35
+This paper presents a novel framework that integrates a Dynamic Legal Retrieval-
+Augmented Generation (RAG) system with a Legal-A ware T ext Summarization model.
+Our approach addresses the twin challenges of efﬁcient legal information retrieval and
+hallucination-free summarization by dynamically incorporating contextual information
+in real time from domain-speciﬁc knowledge repositories. The RAG system is designed
+to retrieve the most pertinent legal context from resources such as the Constitution of
+India, Civil Procedure Code (CPC), and Supreme Court judgments using the BM25 [
+1]
+algorithm and a top-3 chunking strategy . This ensures that the retrieved context is seman-
+tically relevant and legally accurate, minimizing redundancy while maximizing legally
+pertinent content.
+Standard Retrieval-Augmented Generation (RAG) approaches and non-domain-
+speciﬁc summarization models exhibit key limitations when applied to legal documents.
+Generic summarization models, including ﬁne-tuned large language models (LLMs) trained
+on general-purpose corpora, often hallucinate legal content or omit crucial statutory refer-
+ences that were not part of their training distribution. Similarly , traditional RAG frame-
+works typically rely on surface-level semantic similarity for retrieval, which may not
+capture the nuanced relevance of statutes, procedural codes, or precedent cases required in
+the legal domain.
+T o address these challenges, we propose a Dynamic Legal RAG framework that
+performs real-time, entity-aware augmentation using outputs from a Legal Named En-
+tity Recognition (NER) module. This framework identiﬁes “dark zones” in legal judg-
+ments—such as unexplained statute–provision pairs or judicial precedents—and dynami-
+cally retrieves authoritative references to ﬁll those gaps. By anchoring retrieval on struc-
+tured legal entities rather than lexical similarity , the system enhances both factual consis-
+tency and contextual relevance in downstream summarization.
+Building on this foundation, our legal text summarization model ﬁne-tunes the LLaMA
+3.1 8B architecture [ 2] to generate concise and contextually enriched summaries. The pro-
+posed system achieves a vital form of symmetry between information retrieval and content
+generation, ensuring that retrieved legal knowledge is both comprehensive and precise. A
+key design feature is the compression ratio constraint (0.05 to 0.5), maintaining structural
+symmetry between the original judgment and its summary by balancing representation
+and information density . By integrating the real-time context of the RAG system, our
+model minimizes hallucinations and enhances factual grounding, a critical requirement
+for legal text processing. Extensive evaluations establish BM25 as the most effective re-
+triever , striking an optimal balance between precision and recall. The contextual ﬂow
+facilitated by the RAG system ensures that the summarization model remains informed by
+the most up-to-date and relevant legal information, thereby improving both accuracy and
+interpretability . The key contributions of this paper are as follows:
+1. The development of a Dynamic Legal RAG system tailored to the complexities of
+Indian legal texts.
+2. The implementation of a Factually-Aligned Summarization model that leverages
+real-time retrieval of legal context.
+T ogether , these components advance the state-of-the-art in legal information retrieval
+and summarization, providing a robust framework to support legal professionals in their
+analytical and decision-making processes. The remainder of this paper is organized as fol-
+lows: Section 2 reviews related work on legal text summarization, and retrieval-augmented
+methods. Section 3 describes our methodology , including the design and implementa-
+tion of the Dynamic RAG System and its integration with the Fine-T uned Summarization
+Model. Section 4 outlines the experimental setup and dataset curation for RAG and for
+Summarization. Section 5 presents the results and performance analysis of each systemSymmetry 2025, 17, 633 3 of 35
+component. Finally , Section 6 discusses our ﬁndings and outlines potential directions for
+future research.
+2. Related W ork
+Research in legal text processing has made notable progress, particularly in infor-
+mation retrieval (IR) and legal T ext Summarization, driven by the increasing complexity
+and volume of judicial documents. T raditional IR methods such as Boolean search and
+TF-IDF [ 3], along with extractive summarization techniques, have laid the foundation for
+legal document analysis. However , the advent of transformer-based models and neural ar-
+chitectures has signiﬁcantly enhanced the precision and contextual understanding required
+in legal applications. This section reviews key developments in legal IR and summarization,
+highlighting the transition from classical approaches to state-of-the-art techniques.
+2.1. Information Retrieval for Legal T exts
+Legal Information Retrieval (IR) is integral to legal research and facilitates access to
+judicial documents, case law , and statutory materials. Unlike general IR, legal IR requires
+high precision in retrieving relevant information from extensive legal texts while addressing
+their hierarchical and interconnected nature. The following subsections examine traditional
+and neural retrieval approaches, evaluating their efﬁcacy and limitations in legal IR.
+2.1.1. T raditional Retrieval Methods
+T raditional legal IR methods, including Boolean search, TF-IDF , and BM25, have
+provided foundational mechanisms for the retrieval of legal documents and precedents.
+Boolean search employs logical operators to ﬁlter documents based on keyword expressions
+but is constrained by the complexity of the query [
+4]. Studies indicate that while the Boolean
+search remains relevant, it is increasingly outperformed by TF-IDF and BM25, which offer
+improved adaptability and retrieval efﬁciency [ 5].
+TF-IDF , a statistical model that assesses the signiﬁcance of a term within a corpus, has
+been widely applied in legal document ranking [ 6,7]. However , its effectiveness diminishes
+with long documents and term saturation. BM25, an extension of probabilistic retrieval
+models, mitigates these limitations through document length normalization and term
+frequency adjustments, leading to superior retrieval performance in case law and statutory
+retrieval [ 8,9]. Hybrid models that integrate TF-IDF
+
+================================================================================
+Total text length: 34101 characters
+================================================================================

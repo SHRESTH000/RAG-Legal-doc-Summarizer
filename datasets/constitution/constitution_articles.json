@@ -1,0 +1,4870 @@
+{
+  "dataset_name": "Constitution of India",
+  "total_articles": 395,
+  "total_schedules": 12,
+  "enacted_year": 1950,
+  "articles": [
+    {
+      "article_number": "1",
+      "title": "Name and territory of the Union",
+      "text": "[Text for Constitution Article 1 - to be populated from authoritative source]",
+      "part": "I",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "2",
+      "title": "Admission or establishment of new States",
+      "text": "[Text for Constitution Article 2 - to be populated from authoritative source]",
+      "part": "I",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "3",
+      "title": "Formation of new States and alteration of areas, boundaries or names of existing States",
+      "text": "[Text for Constitution Article 3 - to be populated from authoritative source]",
+      "part": "I",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "4",
+      "title": "Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules",
+      "text": "[Text for Constitution Article 4 - to be populated from authoritative source]",
+      "part": "I",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "5",
+      "title": "Article 5",
+      "text": "[Text for Constitution Article 5 - to be populated from authoritative source]",
+      "part": "II",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "6",
+      "title": "Article 6",
+      "text": "[Text for Constitution Article 6 - to be populated from authoritative source]",
+      "part": "II",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "7",
+      "title": "Article 7",
+      "text": "[Text for Constitution Article 7 - to be populated from authoritative source]",
+      "part": "II",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "8",
+      "title": "Article 8",
+      "text": "[Text for Constitution Article 8 - to be populated from authoritative source]",
+      "part": "II",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "9",
+      "title": "Article 9",
+      "text": "[Text for Constitution Article 9 - to be populated from authoritative source]",
+      "part": "II",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "10",
+      "title": "Article 10",
+      "text": "[Text for Constitution Article 10 - to be populated from authoritative source]",
+      "part": "II",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "11",
+      "title": "Article 11",
+      "text": "[Text for Constitution Article 11 - to be populated from authoritative source]",
+      "part": "II",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "12",
+      "title": "Article 12",
+      "text": "[Text for Constitution Article 12 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "13",
+      "title": "Article 13",
+      "text": "[Text for Constitution Article 13 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "14",
+      "title": "Equality before law",
+      "text": "[Text for Constitution Article 14 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "15",
+      "title": "Article 15",
+      "text": "[Text for Constitution Article 15 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "16",
+      "title": "Article 16",
+      "text": "[Text for Constitution Article 16 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "17",
+      "title": "Article 17",
+      "text": "[Text for Constitution Article 17 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "18",
+      "title": "Article 18",
+      "text": "[Text for Constitution Article 18 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "19",
+      "title": "Protection of certain rights regarding freedom of speech, etc.",
+      "text": "[Text for Constitution Article 19 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "20",
+      "title": "Article 20",
+      "text": "[Text for Constitution Article 20 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "21",
+      "title": "Protection of life and personal liberty",
+      "text": "[Text for Constitution Article 21 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "22",
+      "title": "Article 22",
+      "text": "[Text for Constitution Article 22 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "23",
+      "title": "Article 23",
+      "text": "[Text for Constitution Article 23 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "24",
+      "title": "Article 24",
+      "text": "[Text for Constitution Article 24 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "25",
+      "title": "Article 25",
+      "text": "[Text for Constitution Article 25 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "26",
+      "title": "Article 26",
+      "text": "[Text for Constitution Article 26 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "27",
+      "title": "Article 27",
+      "text": "[Text for Constitution Article 27 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "28",
+      "title": "Article 28",
+      "text": "[Text for Constitution Article 28 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "29",
+      "title": "Article 29",
+      "text": "[Text for Constitution Article 29 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "30",
+      "title": "Article 30",
+      "text": "[Text for Constitution Article 30 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "31",
+      "title": "Article 31",
+      "text": "[Text for Constitution Article 31 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "32",
+      "title": "Remedies for enforcement of rights conferred by this Part",
+      "text": "[Text for Constitution Article 32 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "33",
+      "title": "Article 33",
+      "text": "[Text for Constitution Article 33 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "34",
+      "title": "Article 34",
+      "text": "[Text for Constitution Article 34 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "35",
+      "title": "Article 35",
+      "text": "[Text for Constitution Article 35 - to be populated from authoritative source]",
+      "part": "III",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "36",
+      "title": "Article 36",
+      "text": "[Text for Constitution Article 36 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "37",
+      "title": "Article 37",
+      "text": "[Text for Constitution Article 37 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "38",
+      "title": "Article 38",
+      "text": "[Text for Constitution Article 38 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "39",
+      "title": "Article 39",
+      "text": "[Text for Constitution Article 39 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "40",
+      "title": "Article 40",
+      "text": "[Text for Constitution Article 40 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "41",
+      "title": "Article 41",
+      "text": "[Text for Constitution Article 41 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "42",
+      "title": "Article 42",
+      "text": "[Text for Constitution Article 42 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "43",
+      "title": "Article 43",
+      "text": "[Text for Constitution Article 43 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "44",
+      "title": "Article 44",
+      "text": "[Text for Constitution Article 44 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "45",
+      "title": "Article 45",
+      "text": "[Text for Constitution Article 45 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "46",
+      "title": "Article 46",
+      "text": "[Text for Constitution Article 46 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "47",
+      "title": "Article 47",
+      "text": "[Text for Constitution Article 47 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "48",
+      "title": "Article 48",
+      "text": "[Text for Constitution Article 48 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "49",
+      "title": "Article 49",
+      "text": "[Text for Constitution Article 49 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "50",
+      "title": "Article 50",
+      "text": "[Text for Constitution Article 50 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "51",
+      "title": "Article 51",
+      "text": "[Text for Constitution Article 51 - to be populated from authoritative source]",
+      "part": "IV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "51A",
+      "title": "Fundamental duties",
+      "text": "[Text for Constitution Article 51A - to be populated from authoritative source]",
+      "part": "IVA",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "52",
+      "title": "Article 52",
+      "text": "[Text for Constitution Article 52 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "53",
+      "title": "Article 53",
+      "text": "[Text for Constitution Article 53 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "54",
+      "title": "Article 54",
+      "text": "[Text for Constitution Article 54 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "55",
+      "title": "Article 55",
+      "text": "[Text for Constitution Article 55 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "56",
+      "title": "Article 56",
+      "text": "[Text for Constitution Article 56 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "57",
+      "title": "Article 57",
+      "text": "[Text for Constitution Article 57 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "58",
+      "title": "Article 58",
+      "text": "[Text for Constitution Article 58 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "59",
+      "title": "Article 59",
+      "text": "[Text for Constitution Article 59 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "60",
+      "title": "Article 60",
+      "text": "[Text for Constitution Article 60 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "61",
+      "title": "Article 61",
+      "text": "[Text for Constitution Article 61 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "62",
+      "title": "Article 62",
+      "text": "[Text for Constitution Article 62 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "63",
+      "title": "Article 63",
+      "text": "[Text for Constitution Article 63 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "64",
+      "title": "Article 64",
+      "text": "[Text for Constitution Article 64 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "65",
+      "title": "Article 65",
+      "text": "[Text for Constitution Article 65 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "66",
+      "title": "Article 66",
+      "text": "[Text for Constitution Article 66 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "67",
+      "title": "Article 67",
+      "text": "[Text for Constitution Article 67 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "68",
+      "title": "Article 68",
+      "text": "[Text for Constitution Article 68 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "69",
+      "title": "Article 69",
+      "text": "[Text for Constitution Article 69 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "70",
+      "title": "Article 70",
+      "text": "[Text for Constitution Article 70 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "71",
+      "title": "Article 71",
+      "text": "[Text for Constitution Article 71 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "72",
+      "title": "Article 72",
+      "text": "[Text for Constitution Article 72 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "73",
+      "title": "Article 73",
+      "text": "[Text for Constitution Article 73 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "74",
+      "title": "Article 74",
+      "text": "[Text for Constitution Article 74 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "75",
+      "title": "Article 75",
+      "text": "[Text for Constitution Article 75 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "76",
+      "title": "Article 76",
+      "text": "[Text for Constitution Article 76 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "77",
+      "title": "Article 77",
+      "text": "[Text for Constitution Article 77 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "78",
+      "title": "Article 78",
+      "text": "[Text for Constitution Article 78 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "79",
+      "title": "Article 79",
+      "text": "[Text for Constitution Article 79 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "80",
+      "title": "Article 80",
+      "text": "[Text for Constitution Article 80 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "81",
+      "title": "Article 81",
+      "text": "[Text for Constitution Article 81 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "82",
+      "title": "Article 82",
+      "text": "[Text for Constitution Article 82 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "83",
+      "title": "Article 83",
+      "text": "[Text for Constitution Article 83 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "84",
+      "title": "Article 84",
+      "text": "[Text for Constitution Article 84 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "85",
+      "title": "Article 85",
+      "text": "[Text for Constitution Article 85 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "86",
+      "title": "Article 86",
+      "text": "[Text for Constitution Article 86 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "87",
+      "title": "Article 87",
+      "text": "[Text for Constitution Article 87 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "88",
+      "title": "Article 88",
+      "text": "[Text for Constitution Article 88 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "89",
+      "title": "Article 89",
+      "text": "[Text for Constitution Article 89 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "90",
+      "title": "Article 90",
+      "text": "[Text for Constitution Article 90 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "91",
+      "title": "Article 91",
+      "text": "[Text for Constitution Article 91 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "92",
+      "title": "Article 92",
+      "text": "[Text for Constitution Article 92 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "93",
+      "title": "Article 93",
+      "text": "[Text for Constitution Article 93 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "94",
+      "title": "Article 94",
+      "text": "[Text for Constitution Article 94 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "95",
+      "title": "Article 95",
+      "text": "[Text for Constitution Article 95 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "96",
+      "title": "Article 96",
+      "text": "[Text for Constitution Article 96 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "97",
+      "title": "Article 97",
+      "text": "[Text for Constitution Article 97 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "98",
+      "title": "Article 98",
+      "text": "[Text for Constitution Article 98 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "99",
+      "title": "Article 99",
+      "text": "[Text for Constitution Article 99 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "100",
+      "title": "Article 100",
+      "text": "[Text for Constitution Article 100 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "101",
+      "title": "Article 101",
+      "text": "[Text for Constitution Article 101 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "102",
+      "title": "Article 102",
+      "text": "[Text for Constitution Article 102 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "103",
+      "title": "Article 103",
+      "text": "[Text for Constitution Article 103 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "104",
+      "title": "Article 104",
+      "text": "[Text for Constitution Article 104 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "105",
+      "title": "Article 105",
+      "text": "[Text for Constitution Article 105 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "106",
+      "title": "Article 106",
+      "text": "[Text for Constitution Article 106 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "107",
+      "title": "Article 107",
+      "text": "[Text for Constitution Article 107 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "108",
+      "title": "Article 108",
+      "text": "[Text for Constitution Article 108 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "109",
+      "title": "Article 109",
+      "text": "[Text for Constitution Article 109 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "110",
+      "title": "Article 110",
+      "text": "[Text for Constitution Article 110 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "111",
+      "title": "Article 111",
+      "text": "[Text for Constitution Article 111 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "112",
+      "title": "Article 112",
+      "text": "[Text for Constitution Article 112 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "113",
+      "title": "Article 113",
+      "text": "[Text for Constitution Article 113 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "114",
+      "title": "Article 114",
+      "text": "[Text for Constitution Article 114 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "115",
+      "title": "Article 115",
+      "text": "[Text for Constitution Article 115 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "116",
+      "title": "Article 116",
+      "text": "[Text for Constitution Article 116 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "117",
+      "title": "Article 117",
+      "text": "[Text for Constitution Article 117 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "118",
+      "title": "Article 118",
+      "text": "[Text for Constitution Article 118 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "119",
+      "title": "Article 119",
+      "text": "[Text for Constitution Article 119 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "120",
+      "title": "Article 120",
+      "text": "[Text for Constitution Article 120 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "121",
+      "title": "Article 121",
+      "text": "[Text for Constitution Article 121 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "122",
+      "title": "Article 122",
+      "text": "[Text for Constitution Article 122 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "123",
+      "title": "Article 123",
+      "text": "[Text for Constitution Article 123 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "124",
+      "title": "Article 124",
+      "text": "[Text for Constitution Article 124 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "125",
+      "title": "Article 125",
+      "text": "[Text for Constitution Article 125 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "126",
+      "title": "Article 126",
+      "text": "[Text for Constitution Article 126 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "127",
+      "title": "Article 127",
+      "text": "[Text for Constitution Article 127 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "128",
+      "title": "Article 128",
+      "text": "[Text for Constitution Article 128 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "129",
+      "title": "Article 129",
+      "text": "[Text for Constitution Article 129 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "130",
+      "title": "Article 130",
+      "text": "[Text for Constitution Article 130 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "131",
+      "title": "Article 131",
+      "text": "[Text for Constitution Article 131 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "132",
+      "title": "Article 132",
+      "text": "[Text for Constitution Article 132 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "133",
+      "title": "Article 133",
+      "text": "[Text for Constitution Article 133 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "134",
+      "title": "Article 134",
+      "text": "[Text for Constitution Article 134 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "135",
+      "title": "Article 135",
+      "text": "[Text for Constitution Article 135 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "136",
+      "title": "Article 136",
+      "text": "[Text for Constitution Article 136 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "137",
+      "title": "Article 137",
+      "text": "[Text for Constitution Article 137 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "138",
+      "title": "Article 138",
+      "text": "[Text for Constitution Article 138 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "139",
+      "title": "Article 139",
+      "text": "[Text for Constitution Article 139 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "140",
+      "title": "Article 140",
+      "text": "[Text for Constitution Article 140 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "141",
+      "title": "Article 141",
+      "text": "[Text for Constitution Article 141 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "142",
+      "title": "Article 142",
+      "text": "[Text for Constitution Article 142 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "143",
+      "title": "Article 143",
+      "text": "[Text for Constitution Article 143 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "144",
+      "title": "Article 144",
+      "text": "[Text for Constitution Article 144 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "145",
+      "title": "Article 145",
+      "text": "[Text for Constitution Article 145 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "146",
+      "title": "Article 146",
+      "text": "[Text for Constitution Article 146 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "147",
+      "title": "Article 147",
+      "text": "[Text for Constitution Article 147 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "148",
+      "title": "Article 148",
+      "text": "[Text for Constitution Article 148 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "149",
+      "title": "Article 149",
+      "text": "[Text for Constitution Article 149 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "150",
+      "title": "Article 150",
+      "text": "[Text for Constitution Article 150 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "151",
+      "title": "Article 151",
+      "text": "[Text for Constitution Article 151 - to be populated from authoritative source]",
+      "part": "V",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "152",
+      "title": "Article 152",
+      "text": "[Text for Constitution Article 152 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "153",
+      "title": "Article 153",
+      "text": "[Text for Constitution Article 153 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "154",
+      "title": "Article 154",
+      "text": "[Text for Constitution Article 154 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "155",
+      "title": "Article 155",
+      "text": "[Text for Constitution Article 155 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "156",
+      "title": "Article 156",
+      "text": "[Text for Constitution Article 156 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "157",
+      "title": "Article 157",
+      "text": "[Text for Constitution Article 157 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "158",
+      "title": "Article 158",
+      "text": "[Text for Constitution Article 158 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "159",
+      "title": "Article 159",
+      "text": "[Text for Constitution Article 159 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "160",
+      "title": "Article 160",
+      "text": "[Text for Constitution Article 160 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "161",
+      "title": "Article 161",
+      "text": "[Text for Constitution Article 161 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "162",
+      "title": "Article 162",
+      "text": "[Text for Constitution Article 162 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "163",
+      "title": "Article 163",
+      "text": "[Text for Constitution Article 163 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "164",
+      "title": "Article 164",
+      "text": "[Text for Constitution Article 164 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "165",
+      "title": "Article 165",
+      "text": "[Text for Constitution Article 165 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "166",
+      "title": "Article 166",
+      "text": "[Text for Constitution Article 166 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "167",
+      "title": "Article 167",
+      "text": "[Text for Constitution Article 167 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "168",
+      "title": "Article 168",
+      "text": "[Text for Constitution Article 168 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "169",
+      "title": "Article 169",
+      "text": "[Text for Constitution Article 169 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "170",
+      "title": "Article 170",
+      "text": "[Text for Constitution Article 170 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "171",
+      "title": "Article 171",
+      "text": "[Text for Constitution Article 171 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "172",
+      "title": "Article 172",
+      "text": "[Text for Constitution Article 172 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "173",
+      "title": "Article 173",
+      "text": "[Text for Constitution Article 173 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "174",
+      "title": "Article 174",
+      "text": "[Text for Constitution Article 174 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "175",
+      "title": "Article 175",
+      "text": "[Text for Constitution Article 175 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "176",
+      "title": "Article 176",
+      "text": "[Text for Constitution Article 176 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "177",
+      "title": "Article 177",
+      "text": "[Text for Constitution Article 177 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "178",
+      "title": "Article 178",
+      "text": "[Text for Constitution Article 178 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "179",
+      "title": "Article 179",
+      "text": "[Text for Constitution Article 179 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "180",
+      "title": "Article 180",
+      "text": "[Text for Constitution Article 180 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "181",
+      "title": "Article 181",
+      "text": "[Text for Constitution Article 181 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "182",
+      "title": "Article 182",
+      "text": "[Text for Constitution Article 182 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "183",
+      "title": "Article 183",
+      "text": "[Text for Constitution Article 183 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "184",
+      "title": "Article 184",
+      "text": "[Text for Constitution Article 184 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "185",
+      "title": "Article 185",
+      "text": "[Text for Constitution Article 185 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "186",
+      "title": "Article 186",
+      "text": "[Text for Constitution Article 186 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "187",
+      "title": "Article 187",
+      "text": "[Text for Constitution Article 187 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "188",
+      "title": "Article 188",
+      "text": "[Text for Constitution Article 188 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "189",
+      "title": "Article 189",
+      "text": "[Text for Constitution Article 189 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "190",
+      "title": "Article 190",
+      "text": "[Text for Constitution Article 190 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "191",
+      "title": "Article 191",
+      "text": "[Text for Constitution Article 191 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "192",
+      "title": "Article 192",
+      "text": "[Text for Constitution Article 192 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "193",
+      "title": "Article 193",
+      "text": "[Text for Constitution Article 193 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "194",
+      "title": "Article 194",
+      "text": "[Text for Constitution Article 194 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "195",
+      "title": "Article 195",
+      "text": "[Text for Constitution Article 195 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "196",
+      "title": "Article 196",
+      "text": "[Text for Constitution Article 196 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "197",
+      "title": "Article 197",
+      "text": "[Text for Constitution Article 197 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "198",
+      "title": "Article 198",
+      "text": "[Text for Constitution Article 198 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "199",
+      "title": "Article 199",
+      "text": "[Text for Constitution Article 199 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "200",
+      "title": "Article 200",
+      "text": "[Text for Constitution Article 200 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "201",
+      "title": "Article 201",
+      "text": "[Text for Constitution Article 201 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "202",
+      "title": "Article 202",
+      "text": "[Text for Constitution Article 202 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "203",
+      "title": "Article 203",
+      "text": "[Text for Constitution Article 203 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "204",
+      "title": "Article 204",
+      "text": "[Text for Constitution Article 204 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "205",
+      "title": "Article 205",
+      "text": "[Text for Constitution Article 205 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "206",
+      "title": "Article 206",
+      "text": "[Text for Constitution Article 206 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "207",
+      "title": "Article 207",
+      "text": "[Text for Constitution Article 207 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "208",
+      "title": "Article 208",
+      "text": "[Text for Constitution Article 208 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "209",
+      "title": "Article 209",
+      "text": "[Text for Constitution Article 209 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "210",
+      "title": "Article 210",
+      "text": "[Text for Constitution Article 210 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "211",
+      "title": "Article 211",
+      "text": "[Text for Constitution Article 211 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "212",
+      "title": "Article 212",
+      "text": "[Text for Constitution Article 212 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "213",
+      "title": "Article 213",
+      "text": "[Text for Constitution Article 213 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "214",
+      "title": "Article 214",
+      "text": "[Text for Constitution Article 214 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "215",
+      "title": "Article 215",
+      "text": "[Text for Constitution Article 215 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "216",
+      "title": "Article 216",
+      "text": "[Text for Constitution Article 216 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "217",
+      "title": "Article 217",
+      "text": "[Text for Constitution Article 217 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "218",
+      "title": "Article 218",
+      "text": "[Text for Constitution Article 218 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "219",
+      "title": "Article 219",
+      "text": "[Text for Constitution Article 219 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "220",
+      "title": "Article 220",
+      "text": "[Text for Constitution Article 220 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "221",
+      "title": "Article 221",
+      "text": "[Text for Constitution Article 221 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "222",
+      "title": "Article 222",
+      "text": "[Text for Constitution Article 222 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "223",
+      "title": "Article 223",
+      "text": "[Text for Constitution Article 223 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "224",
+      "title": "Article 224",
+      "text": "[Text for Constitution Article 224 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "225",
+      "title": "Article 225",
+      "text": "[Text for Constitution Article 225 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "226",
+      "title": "Article 226",
+      "text": "[Text for Constitution Article 226 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "227",
+      "title": "Article 227",
+      "text": "[Text for Constitution Article 227 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "228",
+      "title": "Article 228",
+      "text": "[Text for Constitution Article 228 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "229",
+      "title": "Article 229",
+      "text": "[Text for Constitution Article 229 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "230",
+      "title": "Article 230",
+      "text": "[Text for Constitution Article 230 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "231",
+      "title": "Article 231",
+      "text": "[Text for Constitution Article 231 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "232",
+      "title": "Article 232",
+      "text": "[Text for Constitution Article 232 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "233",
+      "title": "Article 233",
+      "text": "[Text for Constitution Article 233 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "234",
+      "title": "Article 234",
+      "text": "[Text for Constitution Article 234 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "235",
+      "title": "Article 235",
+      "text": "[Text for Constitution Article 235 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "236",
+      "title": "Article 236",
+      "text": "[Text for Constitution Article 236 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "237",
+      "title": "Article 237",
+      "text": "[Text for Constitution Article 237 - to be populated from authoritative source]",
+      "part": "VI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "239",
+      "title": "Article 239",
+      "text": "[Text for Constitution Article 239 - to be populated from authoritative source]",
+      "part": "VIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "240",
+      "title": "Article 240",
+      "text": "[Text for Constitution Article 240 - to be populated from authoritative source]",
+      "part": "VIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "241",
+      "title": "Article 241",
+      "text": "[Text for Constitution Article 241 - to be populated from authoritative source]",
+      "part": "VIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "242",
+      "title": "Article 242",
+      "text": "[Text for Constitution Article 242 - to be populated from authoritative source]",
+      "part": "VIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "243",
+      "title": "Article 243",
+      "text": "[Text for Constitution Article 243 - to be populated from authoritative source]",
+      "part": "IX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "244",
+      "title": "Article 244",
+      "text": "[Text for Constitution Article 244 - to be populated from authoritative source]",
+      "part": "X",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "245",
+      "title": "Article 245",
+      "text": "[Text for Constitution Article 245 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "246",
+      "title": "Article 246",
+      "text": "[Text for Constitution Article 246 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "247",
+      "title": "Article 247",
+      "text": "[Text for Constitution Article 247 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "248",
+      "title": "Article 248",
+      "text": "[Text for Constitution Article 248 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "249",
+      "title": "Article 249",
+      "text": "[Text for Constitution Article 249 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "250",
+      "title": "Article 250",
+      "text": "[Text for Constitution Article 250 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "251",
+      "title": "Article 251",
+      "text": "[Text for Constitution Article 251 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "252",
+      "title": "Article 252",
+      "text": "[Text for Constitution Article 252 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "253",
+      "title": "Article 253",
+      "text": "[Text for Constitution Article 253 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "254",
+      "title": "Article 254",
+      "text": "[Text for Constitution Article 254 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "255",
+      "title": "Article 255",
+      "text": "[Text for Constitution Article 255 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "256",
+      "title": "Article 256",
+      "text": "[Text for Constitution Article 256 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "257",
+      "title": "Article 257",
+      "text": "[Text for Constitution Article 257 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "258",
+      "title": "Article 258",
+      "text": "[Text for Constitution Article 258 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "259",
+      "title": "Article 259",
+      "text": "[Text for Constitution Article 259 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "260",
+      "title": "Article 260",
+      "text": "[Text for Constitution Article 260 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "261",
+      "title": "Article 261",
+      "text": "[Text for Constitution Article 261 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "262",
+      "title": "Article 262",
+      "text": "[Text for Constitution Article 262 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "263",
+      "title": "Article 263",
+      "text": "[Text for Constitution Article 263 - to be populated from authoritative source]",
+      "part": "XI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "264",
+      "title": "Article 264",
+      "text": "[Text for Constitution Article 264 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "265",
+      "title": "Article 265",
+      "text": "[Text for Constitution Article 265 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "266",
+      "title": "Article 266",
+      "text": "[Text for Constitution Article 266 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "267",
+      "title": "Article 267",
+      "text": "[Text for Constitution Article 267 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "268",
+      "title": "Article 268",
+      "text": "[Text for Constitution Article 268 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "269",
+      "title": "Article 269",
+      "text": "[Text for Constitution Article 269 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "270",
+      "title": "Article 270",
+      "text": "[Text for Constitution Article 270 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "271",
+      "title": "Article 271",
+      "text": "[Text for Constitution Article 271 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "272",
+      "title": "Article 272",
+      "text": "[Text for Constitution Article 272 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "273",
+      "title": "Article 273",
+      "text": "[Text for Constitution Article 273 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "274",
+      "title": "Article 274",
+      "text": "[Text for Constitution Article 274 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "275",
+      "title": "Article 275",
+      "text": "[Text for Constitution Article 275 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "276",
+      "title": "Article 276",
+      "text": "[Text for Constitution Article 276 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "277",
+      "title": "Article 277",
+      "text": "[Text for Constitution Article 277 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "278",
+      "title": "Article 278",
+      "text": "[Text for Constitution Article 278 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "279",
+      "title": "Article 279",
+      "text": "[Text for Constitution Article 279 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "280",
+      "title": "Article 280",
+      "text": "[Text for Constitution Article 280 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "281",
+      "title": "Article 281",
+      "text": "[Text for Constitution Article 281 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "282",
+      "title": "Article 282",
+      "text": "[Text for Constitution Article 282 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "283",
+      "title": "Article 283",
+      "text": "[Text for Constitution Article 283 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "284",
+      "title": "Article 284",
+      "text": "[Text for Constitution Article 284 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "285",
+      "title": "Article 285",
+      "text": "[Text for Constitution Article 285 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "286",
+      "title": "Article 286",
+      "text": "[Text for Constitution Article 286 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "287",
+      "title": "Article 287",
+      "text": "[Text for Constitution Article 287 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "288",
+      "title": "Article 288",
+      "text": "[Text for Constitution Article 288 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "289",
+      "title": "Article 289",
+      "text": "[Text for Constitution Article 289 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "290",
+      "title": "Article 290",
+      "text": "[Text for Constitution Article 290 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "291",
+      "title": "Article 291",
+      "text": "[Text for Constitution Article 291 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "292",
+      "title": "Article 292",
+      "text": "[Text for Constitution Article 292 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "293",
+      "title": "Article 293",
+      "text": "[Text for Constitution Article 293 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "294",
+      "title": "Article 294",
+      "text": "[Text for Constitution Article 294 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "295",
+      "title": "Article 295",
+      "text": "[Text for Constitution Article 295 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "296",
+      "title": "Article 296",
+      "text": "[Text for Constitution Article 296 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "297",
+      "title": "Article 297",
+      "text": "[Text for Constitution Article 297 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "298",
+      "title": "Article 298",
+      "text": "[Text for Constitution Article 298 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "299",
+      "title": "Article 299",
+      "text": "[Text for Constitution Article 299 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "300",
+      "title": "Article 300",
+      "text": "[Text for Constitution Article 300 - to be populated from authoritative source]",
+      "part": "XII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "301",
+      "title": "Article 301",
+      "text": "[Text for Constitution Article 301 - to be populated from authoritative source]",
+      "part": "XIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "302",
+      "title": "Article 302",
+      "text": "[Text for Constitution Article 302 - to be populated from authoritative source]",
+      "part": "XIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "303",
+      "title": "Article 303",
+      "text": "[Text for Constitution Article 303 - to be populated from authoritative source]",
+      "part": "XIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "304",
+      "title": "Article 304",
+      "text": "[Text for Constitution Article 304 - to be populated from authoritative source]",
+      "part": "XIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "305",
+      "title": "Article 305",
+      "text": "[Text for Constitution Article 305 - to be populated from authoritative source]",
+      "part": "XIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "306",
+      "title": "Article 306",
+      "text": "[Text for Constitution Article 306 - to be populated from authoritative source]",
+      "part": "XIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "307",
+      "title": "Article 307",
+      "text": "[Text for Constitution Article 307 - to be populated from authoritative source]",
+      "part": "XIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "308",
+      "title": "Article 308",
+      "text": "[Text for Constitution Article 308 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "309",
+      "title": "Article 309",
+      "text": "[Text for Constitution Article 309 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "310",
+      "title": "Article 310",
+      "text": "[Text for Constitution Article 310 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "311",
+      "title": "Article 311",
+      "text": "[Text for Constitution Article 311 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "312",
+      "title": "Article 312",
+      "text": "[Text for Constitution Article 312 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "313",
+      "title": "Article 313",
+      "text": "[Text for Constitution Article 313 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "314",
+      "title": "Article 314",
+      "text": "[Text for Constitution Article 314 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "315",
+      "title": "Article 315",
+      "text": "[Text for Constitution Article 315 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "316",
+      "title": "Article 316",
+      "text": "[Text for Constitution Article 316 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "317",
+      "title": "Article 317",
+      "text": "[Text for Constitution Article 317 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "318",
+      "title": "Article 318",
+      "text": "[Text for Constitution Article 318 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "319",
+      "title": "Article 319",
+      "text": "[Text for Constitution Article 319 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "320",
+      "title": "Article 320",
+      "text": "[Text for Constitution Article 320 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "321",
+      "title": "Article 321",
+      "text": "[Text for Constitution Article 321 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "322",
+      "title": "Article 322",
+      "text": "[Text for Constitution Article 322 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "323",
+      "title": "Article 323",
+      "text": "[Text for Constitution Article 323 - to be populated from authoritative source]",
+      "part": "XIV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "324",
+      "title": "Article 324",
+      "text": "[Text for Constitution Article 324 - to be populated from authoritative source]",
+      "part": "XV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "325",
+      "title": "Article 325",
+      "text": "[Text for Constitution Article 325 - to be populated from authoritative source]",
+      "part": "XV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "326",
+      "title": "Article 326",
+      "text": "[Text for Constitution Article 326 - to be populated from authoritative source]",
+      "part": "XV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "327",
+      "title": "Article 327",
+      "text": "[Text for Constitution Article 327 - to be populated from authoritative source]",
+      "part": "XV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "328",
+      "title": "Article 328",
+      "text": "[Text for Constitution Article 328 - to be populated from authoritative source]",
+      "part": "XV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "329",
+      "title": "Article 329",
+      "text": "[Text for Constitution Article 329 - to be populated from authoritative source]",
+      "part": "XV",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "330",
+      "title": "Article 330",
+      "text": "[Text for Constitution Article 330 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "331",
+      "title": "Article 331",
+      "text": "[Text for Constitution Article 331 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "332",
+      "title": "Article 332",
+      "text": "[Text for Constitution Article 332 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "333",
+      "title": "Article 333",
+      "text": "[Text for Constitution Article 333 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "334",
+      "title": "Article 334",
+      "text": "[Text for Constitution Article 334 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "335",
+      "title": "Article 335",
+      "text": "[Text for Constitution Article 335 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "336",
+      "title": "Article 336",
+      "text": "[Text for Constitution Article 336 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "337",
+      "title": "Article 337",
+      "text": "[Text for Constitution Article 337 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "338",
+      "title": "Article 338",
+      "text": "[Text for Constitution Article 338 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "339",
+      "title": "Article 339",
+      "text": "[Text for Constitution Article 339 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "340",
+      "title": "Article 340",
+      "text": "[Text for Constitution Article 340 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "341",
+      "title": "Article 341",
+      "text": "[Text for Constitution Article 341 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "342",
+      "title": "Article 342",
+      "text": "[Text for Constitution Article 342 - to be populated from authoritative source]",
+      "part": "XVI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "343",
+      "title": "Article 343",
+      "text": "[Text for Constitution Article 343 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "344",
+      "title": "Article 344",
+      "text": "[Text for Constitution Article 344 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "345",
+      "title": "Article 345",
+      "text": "[Text for Constitution Article 345 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "346",
+      "title": "Article 346",
+      "text": "[Text for Constitution Article 346 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "347",
+      "title": "Article 347",
+      "text": "[Text for Constitution Article 347 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "348",
+      "title": "Article 348",
+      "text": "[Text for Constitution Article 348 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "349",
+      "title": "Article 349",
+      "text": "[Text for Constitution Article 349 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "350",
+      "title": "Article 350",
+      "text": "[Text for Constitution Article 350 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "351",
+      "title": "Article 351",
+      "text": "[Text for Constitution Article 351 - to be populated from authoritative source]",
+      "part": "XVII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "352",
+      "title": "Article 352",
+      "text": "[Text for Constitution Article 352 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "353",
+      "title": "Article 353",
+      "text": "[Text for Constitution Article 353 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "354",
+      "title": "Article 354",
+      "text": "[Text for Constitution Article 354 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "355",
+      "title": "Article 355",
+      "text": "[Text for Constitution Article 355 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "356",
+      "title": "Article 356",
+      "text": "[Text for Constitution Article 356 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "357",
+      "title": "Article 357",
+      "text": "[Text for Constitution Article 357 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "358",
+      "title": "Article 358",
+      "text": "[Text for Constitution Article 358 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "359",
+      "title": "Article 359",
+      "text": "[Text for Constitution Article 359 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "360",
+      "title": "Article 360",
+      "text": "[Text for Constitution Article 360 - to be populated from authoritative source]",
+      "part": "XVIII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "361",
+      "title": "Article 361",
+      "text": "[Text for Constitution Article 361 - to be populated from authoritative source]",
+      "part": "XIX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "362",
+      "title": "Article 362",
+      "text": "[Text for Constitution Article 362 - to be populated from authoritative source]",
+      "part": "XIX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "363",
+      "title": "Article 363",
+      "text": "[Text for Constitution Article 363 - to be populated from authoritative source]",
+      "part": "XIX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "364",
+      "title": "Article 364",
+      "text": "[Text for Constitution Article 364 - to be populated from authoritative source]",
+      "part": "XIX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "365",
+      "title": "Article 365",
+      "text": "[Text for Constitution Article 365 - to be populated from authoritative source]",
+      "part": "XIX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "366",
+      "title": "Article 366",
+      "text": "[Text for Constitution Article 366 - to be populated from authoritative source]",
+      "part": "XIX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "367",
+      "title": "Article 367",
+      "text": "[Text for Constitution Article 367 - to be populated from authoritative source]",
+      "part": "XIX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "368",
+      "title": "Power of Parliament to amend the Constitution",
+      "text": "[Text for Constitution Article 368 - to be populated from authoritative source]",
+      "part": "XX",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "369",
+      "title": "Article 369",
+      "text": "[Text for Constitution Article 369 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "370",
+      "title": "Article 370",
+      "text": "[Text for Constitution Article 370 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "371",
+      "title": "Article 371",
+      "text": "[Text for Constitution Article 371 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "372",
+      "title": "Article 372",
+      "text": "[Text for Constitution Article 372 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "373",
+      "title": "Article 373",
+      "text": "[Text for Constitution Article 373 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "374",
+      "title": "Article 374",
+      "text": "[Text for Constitution Article 374 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "375",
+      "title": "Article 375",
+      "text": "[Text for Constitution Article 375 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "376",
+      "title": "Article 376",
+      "text": "[Text for Constitution Article 376 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "377",
+      "title": "Article 377",
+      "text": "[Text for Constitution Article 377 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "378",
+      "title": "Article 378",
+      "text": "[Text for Constitution Article 378 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "379",
+      "title": "Article 379",
+      "text": "[Text for Constitution Article 379 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "380",
+      "title": "Article 380",
+      "text": "[Text for Constitution Article 380 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "381",
+      "title": "Article 381",
+      "text": "[Text for Constitution Article 381 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "382",
+      "title": "Article 382",
+      "text": "[Text for Constitution Article 382 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "383",
+      "title": "Article 383",
+      "text": "[Text for Constitution Article 383 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "384",
+      "title": "Article 384",
+      "text": "[Text for Constitution Article 384 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "385",
+      "title": "Article 385",
+      "text": "[Text for Constitution Article 385 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "386",
+      "title": "Article 386",
+      "text": "[Text for Constitution Article 386 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "387",
+      "title": "Article 387",
+      "text": "[Text for Constitution Article 387 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "388",
+      "title": "Article 388",
+      "text": "[Text for Constitution Article 388 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "389",
+      "title": "Article 389",
+      "text": "[Text for Constitution Article 389 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "390",
+      "title": "Article 390",
+      "text": "[Text for Constitution Article 390 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "391",
+      "title": "Article 391",
+      "text": "[Text for Constitution Article 391 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "392",
+      "title": "Article 392",
+      "text": "[Text for Constitution Article 392 - to be populated from authoritative source]",
+      "part": "XXI",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "393",
+      "title": "Article 393",
+      "text": "[Text for Constitution Article 393 - to be populated from authoritative source]",
+      "part": "XXII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "394",
+      "title": "Article 394",
+      "text": "[Text for Constitution Article 394 - to be populated from authoritative source]",
+      "part": "XXII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "article_number": "395",
+      "title": "Article 395",
+      "text": "[Text for Constitution Article 395 - to be populated from authoritative source]",
+      "part": "XXII",
+      "schedule": null,
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    }
+  ],
+  "schedules": [
+    {
+      "schedule_number": 1,
+      "title": "First Schedule: Lists of States and Union Territories",
+      "content": "[Content for First Schedule: Lists of States and Union Territories - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 2,
+      "title": "Second Schedule: Emoluments, etc., of the President and Governors",
+      "content": "[Content for Second Schedule: Emoluments, etc., of the President and Governors - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 3,
+      "title": "Third Schedule: Forms of Oaths or Affirmations",
+      "content": "[Content for Third Schedule: Forms of Oaths or Affirmations - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 4,
+      "title": "Fourth Schedule: Allocation of seats in the Council of States",
+      "content": "[Content for Fourth Schedule: Allocation of seats in the Council of States - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 5,
+      "title": "Fifth Schedule: Provisions as to the Administration and Control of Scheduled Areas and Scheduled Tribes",
+      "content": "[Content for Fifth Schedule: Provisions as to the Administration and Control of Scheduled Areas and Scheduled Tribes - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 6,
+      "title": "Sixth Schedule: Provisions as to the Administration of Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram",
+      "content": "[Content for Sixth Schedule: Provisions as to the Administration of Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 7,
+      "title": "Seventh Schedule: List I - Union List, List II - State List, List III - Concurrent List",
+      "content": "[Content for Seventh Schedule: List I - Union List, List II - State List, List III - Concurrent List - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 8,
+      "title": "Eighth Schedule: Languages",
+      "content": "[Content for Eighth Schedule: Languages - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 9,
+      "title": "Ninth Schedule: Validation of certain Acts and Regulations",
+      "content": "[Content for Ninth Schedule: Validation of certain Acts and Regulations - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 10,
+      "title": "Tenth Schedule: Provisions as to disqualification on ground of defection",
+      "content": "[Content for Tenth Schedule: Provisions as to disqualification on ground of defection - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 11,
+      "title": "Eleventh Schedule: Powers, authority and responsibilities of Panchayats",
+      "content": "[Content for Eleventh Schedule: Powers, authority and responsibilities of Panchayats - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    },
+    {
+      "schedule_number": 12,
+      "title": "Twelfth Schedule: Powers, authority and responsibilities of Municipalities",
+      "content": "[Content for Twelfth Schedule: Powers, authority and responsibilities of Municipalities - to be populated from authoritative source]",
+      "metadata": {
+        "act": "Constitution of India",
+        "enacted_year": 1950,
+        "category": "Constitutional Law"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+pdfplumber>=0.9.0
+# Alternative PDF libraries (install one of these if pdfplumber doesn't work):
+# PyPDF2>=3.0.0
+# pypdf>=3.0.0
+

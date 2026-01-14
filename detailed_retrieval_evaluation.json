@@ -1,0 +1,666 @@
+{
+  "keyword_results": [
+    {
+      "query": "IPC Section 302 murder punishment",
+      "query_type": "keyword_exact",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.13941073417663574,
+        "retrieved_ids": [
+          36316,
+          37514,
+          36841,
+          31353,
+          33219,
+          30444,
+          37985,
+          29420,
+          36942,
+          37858
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.1939835548400879,
+        "retrieved_ids": [
+          33219,
+          37638,
+          37514,
+          37579,
+          36942,
+          34775,
+          36316,
+          37985,
+          37858,
+          35239
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "CrPC Section 439 bail cancellation",
+      "query_type": "keyword_exact",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.13799285888671875,
+        "retrieved_ids": [
+          41324,
+          40965,
+          40824,
+          41309,
+          41299,
+          41334,
+          41216,
+          40960,
+          41125,
+          41051
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.1949934959411621,
+        "retrieved_ids": [
+          41324,
+          40965,
+          40824,
+          41299,
+          41309,
+          41334,
+          41216,
+          40960,
+          41051,
+          41125
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    }
+  ],
+  "semantic_results": [
+    {
+      "query": "What happens when someone intentionally kills another person?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.2119908332824707,
+        "retrieved_ids": [
+          6929,
+          6947,
+          6870,
+          7006,
+          6890,
+          6995,
+          7034,
+          6848,
+          6909,
+          7016
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.24699854850769043,
+        "retrieved_ids": [
+          6929,
+          6995,
+          6870,
+          7006,
+          6947,
+          6890,
+          7034,
+          6848,
+          7016,
+          6909
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "How can an accused person be released before trial conclusion?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.28899717330932617,
+        "retrieved_ids": [
+          45106,
+          48056,
+          46313,
+          47482,
+          49770,
+          46913,
+          44609,
+          49202,
+          45710,
+          48636
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.3619992733001709,
+        "retrieved_ids": [
+          46913,
+          44609,
+          45710,
+          46313,
+          49770,
+          45106,
+          49202,
+          48056,
+          47482,
+          48636
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "When can a statement made by a person before death be used as evidence?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.39398694038391113,
+        "retrieved_ids": [
+          6729,
+          6709,
+          6693,
+          6721,
+          6675,
+          6632,
+          6738,
+          6715,
+          6606,
+          6701
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.42699241638183594,
+        "retrieved_ids": [
+          6729,
+          6721,
+          6675,
+          6693,
+          6632,
+          6709,
+          6738,
+          6715,
+          6592,
+          6665
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "What factors determine the severity of punishment for causing death?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.29399847984313965,
+        "retrieved_ids": [
+          47042,
+          49335,
+          44730,
+          46449,
+          47614,
+          48186,
+          45843,
+          48767,
+          49901,
+          45242
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.3139994144439697,
+        "retrieved_ids": [
+          47042,
+          45843,
+          44730,
+          45242,
+          49901,
+          48767,
+          46449,
+          49335,
+          48186,
+          47614
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "How is guilt established when multiple people act together in a crime?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.32541704177856445,
+        "retrieved_ids": [
+          27915,
+          27837,
+          27716,
+          27567,
+          27619,
+          27761,
+          27794,
+          27879,
+          27864,
+          27515
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.3730955123901367,
+        "retrieved_ids": [
+          27915,
+          27837,
+          27716,
+          27794,
+          27619,
+          27567,
+          27761,
+          27879,
+          27864,
+          27817
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    }
+  ],
+  "all_results": [
+    {
+      "query": "IPC Section 302 murder punishment",
+      "query_type": "keyword_exact",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.13941073417663574,
+        "retrieved_ids": [
+          36316,
+          37514,
+          36841,
+          31353,
+          33219,
+          30444,
+          37985,
+          29420,
+          36942,
+          37858
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.1939835548400879,
+        "retrieved_ids": [
+          33219,
+          37638,
+          37514,
+          37579,
+          36942,
+          34775,
+          36316,
+          37985,
+          37858,
+          35239
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "CrPC Section 439 bail cancellation",
+      "query_type": "keyword_exact",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.13799285888671875,
+        "retrieved_ids": [
+          41324,
+          40965,
+          40824,
+          41309,
+          41299,
+          41334,
+          41216,
+          40960,
+          41125,
+          41051
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.1949934959411621,
+        "retrieved_ids": [
+          41324,
+          40965,
+          40824,
+          41299,
+          41309,
+          41334,
+          41216,
+          40960,
+          41051,
+          41125
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "What happens when someone intentionally kills another person?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.2119908332824707,
+        "retrieved_ids": [
+          6929,
+          6947,
+          6870,
+          7006,
+          6890,
+          6995,
+          7034,
+          6848,
+          6909,
+          7016
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.24699854850769043,
+        "retrieved_ids": [
+          6929,
+          6995,
+          6870,
+          7006,
+          6947,
+          6890,
+          7034,
+          6848,
+          7016,
+          6909
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "How can an accused person be released before trial conclusion?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.28899717330932617,
+        "retrieved_ids": [
+          45106,
+          48056,
+          46313,
+          47482,
+          49770,
+          46913,
+          44609,
+          49202,
+          45710,
+          48636
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.3619992733001709,
+        "retrieved_ids": [
+          46913,
+          44609,
+          45710,
+          46313,
+          49770,
+          45106,
+          49202,
+          48056,
+          47482,
+          48636
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "When can a statement made by a person before death be used as evidence?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.39398694038391113,
+        "retrieved_ids": [
+          6729,
+          6709,
+          6693,
+          6721,
+          6675,
+          6632,
+          6738,
+          6715,
+          6606,
+          6701
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.42699241638183594,
+        "retrieved_ids": [
+          6729,
+          6721,
+          6675,
+          6693,
+          6632,
+          6709,
+          6738,
+          6715,
+          6592,
+          6665
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "What factors determine the severity of punishment for causing death?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.29399847984313965,
+        "retrieved_ids": [
+          47042,
+          49335,
+          44730,
+          46449,
+          47614,
+          48186,
+          45843,
+          48767,
+          49901,
+          45242
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.3139994144439697,
+        "retrieved_ids": [
+          47042,
+          45843,
+          44730,
+          45242,
+          49901,
+          48767,
+          46449,
+          49335,
+          48186,
+          47614
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    },
+    {
+      "query": "How is guilt established when multiple people act together in a crime?",
+      "query_type": "semantic",
+      "num_relevant": 30,
+      "bm25": {
+        "retrieval_time": 0.32541704177856445,
+        "retrieved_ids": [
+          27915,
+          27837,
+          27716,
+          27567,
+          27619,
+          27761,
+          27794,
+          27879,
+          27864,
+          27515
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      },
+      "hybrid": {
+        "retrieval_time": 0.3730955123901367,
+        "retrieved_ids": [
+          27915,
+          27837,
+          27716,
+          27794,
+          27619,
+          27567,
+          27761,
+          27879,
+          27864,
+          27817
+        ],
+        "precision@3": 1.0,
+        "recall@3": 0.1,
+        "precision@5": 1.0,
+        "recall@5": 0.16666666666666666,
+        "precision@10": 1.0,
+        "recall@10": 0.3333333333333333
+      }
+    }
+  ]
+}

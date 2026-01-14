@@ -1,0 +1,14 @@
+{
+  "bertscore": {
+    "precision": 0.7924847602844238,
+    "recall": 0.7828037540117899,
+    "f1": 0.7873765031496683
+  },
+  "comparison": {
+    "baseline": 0.89,
+    "our_score": 0.7873765031496683,
+    "difference": -0.10262349685033167,
+    "percent_diff": -11.530729983183335,
+    "status": "worse"
+  }
+}

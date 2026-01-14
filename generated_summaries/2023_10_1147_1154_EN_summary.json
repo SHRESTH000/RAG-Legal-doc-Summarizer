@@ -1,0 +1,33 @@
+{
+  "case_number": "2023_10_1147_1154_EN",
+  "judgment_id": 36,
+  "title": "A B C",
+  "date": "2022-09-02",
+  "court": "Supreme Court of India",
+  "year": 2022,
+  "summary": "Case Summary:\nThe case involves Divya Pandey, who was arrested on June 25, 2022, following an FIR registered for offenses under various sections of the Indian Penal Code (IPC). The allegations against her stem from events that took place after a judgment delivered by the Supreme Court of India on June 24, 2022, in the case of Zakia Ahsan Jafri v. State of Gujarat.\n\nKey Issues:\n- Whether Divya Pandey is guilty of the offenses mentioned in the FIR (Sections 468, 469, 471, 194, 211, 218, and 120B of the IPC)?\n- Has Divya Pandey attempted or may attempt to influence witnesses in the case?\n- Will any observations made by the Supreme Court in its orders influence the trial court at the stage of the trial?\n\nLegal Analysis:\nThe primary issue in this case revolves around the allegations against Divya Pandey under various sections of the IPC, particularly Sections 468 (forgery for purpose of cheating), 469 (forgery), 471 (using as genuine a forged document or electronic record), 194 (non-appearance when legally summoned), 211 (offenses against public justice), 218 (public servant framing innocent person for offense) and 120B (conspiracy).\n\nThe second issue concerns the potential influence of Divya Pandey on witnesses, as the Supreme Court has ordered her to not make any attempts to do so and to remain away from them. The court also stated that if the prosecution feels any such attempt is made by the appellant, they can move the court directly for modification of orders.\n\nLastly, the court clarified that none of its observations in the impugned order or any of its previous orders would influence the trial court at the stage of the trial.\n\nRelevant Sections:\n- IPC Section 468, 469, 471, 194, 211, 218, and 120B\n- CrPC (Criminal Procedure Code) sections not explicitly mentioned\n- Evidence",
+  "summary_result": {
+    "case_summary": " The case involves Divya Pandey, who was arrested on June 25, 2022, following an FIR registered for offenses under various sections of the Indian Penal Code (IPC). The allegations against her stem from events that took place after a judgment delivered by the Supreme Court of India on June 24, 2022, in the case of Zakia Ahsan Jafri v. State of Gujarat.",
+    "key_issues": [
+      "Whether Divya Pandey is guilty of the offenses mentioned in the FIR (Sections 468, 469, 471, 194, 211, 218, and 120B of the IPC)?",
+      "Has Divya Pandey attempted or may attempt to influence witnesses in the case?",
+      "Will any observations made by the Supreme Court in its orders influence the trial court at the stage of the trial?"
+    ],
+    "legal_analysis": " The primary issue in this case revolves around the allegations against Divya Pandey under various sections of the IPC, particularly Sections 468 (forgery for purpose of cheating), 469 (forgery), 471 (using as genuine a forged document or electronic record), 194 (non-appearance when legally summoned), 211 (offenses against public justice), 218 (public servant framing innocent person for offense) and 120B (conspiracy). The second issue concerns the potential influence of Divya Pandey on witnesses, as the Supreme Court has ordered her to not make any attempts to do so and to remain away from them. The court also stated that if the prosecution feels any such attempt is made by the appellant, they can move the court directly for modification of orders. Lastly, the court clarified that none of its observations in the impugned order or any of its previous orders would influence the trial court at the stage of the trial.",
+    "relevant_sections": [
+      "IPC Section 468, 469, 471, 194, 211, 218, and 120B",
+      "CrPC (Criminal Procedure Code) sections not explicitly mentioned",
+      "Evidence"
+    ],
+    "judgment": ""
+  },
+  "rag_metadata": {
+    "entities_found": 13,
+    "chunks_retrieved": 5,
+    "dark_zones_found": 0,
+    "legal_sections_retrieved": false
+  },
+  "compression_ratio": 0.361,
+  "generated_at": "2026-01-13T19:41:05.635577",
+  "model": "mistral"
+}

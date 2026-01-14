@@ -1,0 +1,305 @@
+{
+  "queries": [
+    {
+      "query": "What happens when someone intentionally kills another person?",
+      "expected_sections": ["Section 302", "Section 300", "Section 304"],
+      "expected_terms": ["murder", "intentional killing", "homicide"],
+      "expected_semantic_terms": ["intentionally kills", "deliberate killing", "premeditated", "culpable homicide", "death penalty"],
+      "category": "conceptual_definition"
+    },
+    {
+      "query": "How can an accused person be released from custody before the trial ends?",
+      "expected_sections": ["Section 439", "Section 437", "Section 438"],
+      "expected_terms": ["bail", "release", "custody"],
+      "expected_semantic_terms": ["temporary release", "interim relief", "liberty before trial", "pre-trial release"],
+      "category": "procedural_concept"
+    },
+    {
+      "query": "When can a statement made by someone before they die be used as evidence in court?",
+      "expected_sections": ["Evidence Act Section 32", "Section 32"],
+      "expected_terms": ["dying declaration", "evidence"],
+      "expected_semantic_terms": ["statement before death", "deathbed statement", "final statement", "admissible evidence"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What determines how severe the punishment will be for causing someone's death?",
+      "expected_sections": ["Section 302", "Section 304", "Section 300"],
+      "expected_terms": ["punishment", "sentencing", "murder", "culpable homicide"],
+      "expected_semantic_terms": ["severity factors", "aggravating circumstances", "mitigating factors", "punishment determination"],
+      "category": "sentencing"
+    },
+    {
+      "query": "How is guilt established when multiple people commit a crime together?",
+      "expected_sections": ["IPC Section 34", "Section 34"],
+      "expected_terms": ["common intention", "joint liability", "group crime"],
+      "expected_semantic_terms": ["multiple perpetrators", "collective action", "acting together", "shared responsibility"],
+      "category": "doctrine"
+    },
+    {
+      "query": "What is the difference between killing someone accidentally versus intentionally?",
+      "expected_sections": ["Section 302", "Section 304", "Section 299"],
+      "expected_terms": ["murder", "culpable homicide", "intention", "negligence"],
+      "expected_semantic_terms": ["accidental death", "intentional killing", "negligent act", "mental state"],
+      "category": "legal_distinction"
+    },
+    {
+      "query": "Under what circumstances can bail be cancelled after it has been granted?",
+      "expected_sections": ["Section 439", "Section 437"],
+      "expected_terms": ["bail cancellation", "bail"],
+      "expected_semantic_terms": ["revoke bail", "withdraw bail", "bail conditions violation", "misuse of liberty"],
+      "category": "procedural_concept"
+    },
+    {
+      "query": "How do courts determine if a killing was premeditated or done in the heat of the moment?",
+      "expected_sections": ["Section 300", "Section 302", "Section 304"],
+      "expected_terms": ["premeditation", "sudden provocation", "murder", "culpable homicide"],
+      "expected_semantic_terms": ["heat of moment", "sudden fight", "grave provocation", "exception to murder"],
+      "category": "legal_analysis"
+    },
+    {
+      "query": "What legal protections exist for statements made to police officers?",
+      "expected_sections": ["Evidence Act Section 25", "Section 24", "Section 26"],
+      "expected_terms": ["confession", "police statement", "admissibility"],
+      "expected_semantic_terms": ["statement to police", "confession validity", "self-incrimination", "evidence rules"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "When can multiple people be held responsible for a single criminal act?",
+      "expected_sections": ["Section 34", "Section 149"],
+      "expected_terms": ["common intention", "unlawful assembly", "joint liability"],
+      "expected_semantic_terms": ["collective responsibility", "group accountability", "acting in concert"],
+      "category": "doctrine"
+    },
+    {
+      "query": "What are the conditions under which someone can avoid the death penalty for murder?",
+      "expected_sections": ["Section 300", "Section 302", "Exception 1", "Exception 4"],
+      "expected_terms": ["murder", "exceptions", "death penalty", "life imprisonment"],
+      "expected_semantic_terms": ["avoiding capital punishment", "mitigating circumstances", "exception to Section 300"],
+      "category": "sentencing"
+    },
+    {
+      "query": "How is evidence from a crime scene collected and presented in criminal trials?",
+      "expected_sections": ["Evidence Act Section 27", "Section 45"],
+      "expected_terms": ["evidence", "forensic evidence", "scientific evidence"],
+      "expected_semantic_terms": ["crime scene evidence", "material evidence", "expert testimony", "scientific analysis"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What happens when someone causes death but did not intend to kill?",
+      "expected_sections": ["Section 304", "Section 299", "Section 300"],
+      "expected_terms": ["culpable homicide", "negligence", "knowledge"],
+      "expected_semantic_terms": ["unintentional killing", "negligent death", "knowledge of death", "culpable homicide"],
+      "category": "conceptual_definition"
+    },
+    {
+      "query": "Can a person be convicted if there is no direct witness to the crime?",
+      "expected_sections": ["Evidence Act Section 27", "Section 106"],
+      "expected_terms": ["circumstantial evidence", "burden of proof", "witness"],
+      "expected_semantic_terms": ["indirect evidence", "proof without witness", "circumstantial proof", "inference"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What legal procedures must be followed when charging someone with a serious crime?",
+      "expected_sections": ["Section 228", "Section 240", "Section 251"],
+      "expected_terms": ["framing charges", "charge sheet", "procedure"],
+      "expected_semantic_terms": ["charging process", "formal accusation", "charge formulation", "criminal procedure"],
+      "category": "procedural_concept"
+    },
+    {
+      "query": "How do courts distinguish between different types of criminal intent?",
+      "expected_sections": ["Section 300", "Section 299", "Section 34"],
+      "expected_terms": ["intention", "knowledge", "common intention"],
+      "expected_semantic_terms": ["mens rea", "mental element", "criminal intent", "guilty mind"],
+      "category": "legal_analysis"
+    },
+    {
+      "query": "What rights does an accused person have during police investigation?",
+      "expected_sections": ["Section 50", "Article 20", "Article 21"],
+      "expected_terms": ["rights of accused", "police investigation", "fundamental rights"],
+      "expected_semantic_terms": ["legal rights", "protection during investigation", "fair investigation", "accused rights"],
+      "category": "constitutional_rights"
+    },
+    {
+      "query": "When can testimony from a single witness be sufficient to convict someone?",
+      "expected_sections": ["Evidence Act Section 134"],
+      "expected_terms": ["witness testimony", "sole witness", "conviction"],
+      "expected_semantic_terms": ["single witness", "witness credibility", "corroboration", "reliability"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What factors determine whether a killing is murder or a lesser offense?",
+      "expected_sections": ["Section 300", "Section 302", "Section 304"],
+      "expected_terms": ["murder", "culpable homicide", "intention"],
+      "expected_semantic_terms": ["distinguishing murder", "gradation of offense", "severity assessment"],
+      "category": "legal_distinction"
+    },
+    {
+      "query": "How are confessions treated differently when made to police versus to a magistrate?",
+      "expected_sections": ["Evidence Act Section 25", "Section 26", "Section 164"],
+      "expected_terms": ["confession", "police confession", "judicial confession"],
+      "expected_semantic_terms": ["confession admissibility", "voluntary confession", "confession before magistrate"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What legal consequences follow when someone dies during a fight between two groups?",
+      "expected_sections": ["Section 304", "Section 300", "Section 34"],
+      "expected_terms": ["sudden fight", "group altercation", "culpable homicide"],
+      "expected_semantic_terms": ["group violence", "mutual combat", "exception to murder", "grave provocation"],
+      "category": "legal_analysis"
+    },
+    {
+      "query": "How do courts evaluate the reliability of witness testimony in criminal cases?",
+      "expected_sections": ["Evidence Act Section 155", "Section 145"],
+      "expected_terms": ["witness credibility", "cross-examination", "testimony"],
+      "expected_semantic_terms": ["witness reliability", "testimony evaluation", "credibility assessment"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What happens when someone causes death through a negligent or reckless act?",
+      "expected_sections": ["Section 304A", "Section 299"],
+      "expected_terms": ["negligence", "rash act", "death by negligence"],
+      "expected_semantic_terms": ["negligent causing death", "reckless behavior", "criminal negligence"],
+      "category": "conceptual_definition"
+    },
+    {
+      "query": "Under what conditions can bail be granted in serious criminal cases?",
+      "expected_sections": ["Section 437", "Section 439"],
+      "expected_terms": ["bail", "serious offenses", "non-bailable offenses"],
+      "expected_semantic_terms": ["bail in serious crimes", "discretionary bail", "bail conditions"],
+      "category": "procedural_concept"
+    },
+    {
+      "query": "How is the burden of proof allocated between prosecution and defense?",
+      "expected_sections": ["Evidence Act Section 101", "Section 106", "Article 20"],
+      "expected_terms": ["burden of proof", "presumption of innocence", "beyond reasonable doubt"],
+      "expected_semantic_terms": ["proof obligation", "evidentiary burden", "standard of proof"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What constitutes sufficient evidence to prove someone committed murder?",
+      "expected_sections": ["Evidence Act Section 3", "Section 27"],
+      "expected_terms": ["proof", "evidence", "murder conviction"],
+      "expected_semantic_terms": ["sufficient evidence", "proof of murder", "evidentiary standard"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "When can multiple charges be filed against someone for a single criminal incident?",
+      "expected_sections": ["Section 220", "Section 71"],
+      "expected_terms": ["multiple charges", "alternative charges", "punishment"],
+      "expected_semantic_terms": ["charge joinder", "compound offenses", "separate charges"],
+      "category": "procedural_concept"
+    },
+    {
+      "query": "How do courts determine if someone acted in self-defense when causing death?",
+      "expected_sections": ["Section 96", "Section 97", "Section 100"],
+      "expected_terms": ["self-defense", "right of private defense", "justifiable homicide"],
+      "expected_semantic_terms": ["defensive action", "protection of self", "lawful killing"],
+      "category": "doctrine"
+    },
+    {
+      "query": "What is required to establish that someone had the intention to commit murder?",
+      "expected_sections": ["Section 300", "Section 299"],
+      "expected_terms": ["intention", "mens rea", "murder"],
+      "expected_semantic_terms": ["murderous intent", "intent to kill", "premeditation", "malice"],
+      "category": "legal_analysis"
+    },
+    {
+      "query": "How are disputes over evidence admissibility resolved during a trial?",
+      "expected_sections": ["Evidence Act Section 136"],
+      "expected_terms": ["admissibility", "evidence", "objection"],
+      "expected_semantic_terms": ["evidence challenge", "objection to evidence", "admissibility determination"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What legal protections exist to prevent coerced confessions?",
+      "expected_sections": ["Evidence Act Section 24", "Section 25", "Article 20"],
+      "expected_terms": ["confession", "coercion", "voluntary"],
+      "expected_semantic_terms": ["forced confession", "involuntary statement", "confession protection"],
+      "category": "constitutional_rights"
+    },
+    {
+      "query": "How do courts interpret ambiguous evidence in criminal cases?",
+      "expected_sections": ["Evidence Act Section 3", "Section 114"],
+      "expected_terms": ["evidence interpretation", "presumption", "inference"],
+      "expected_semantic_terms": ["ambiguous proof", "evidence construction", "factual inference"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What happens when there are contradictions in witness testimony?",
+      "expected_sections": ["Evidence Act Section 155", "Section 145"],
+      "expected_terms": ["contradiction", "witness", "testimony"],
+      "expected_semantic_terms": ["inconsistent testimony", "witness contradiction", "testimony conflict"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "How is the severity of punishment determined for different types of homicide?",
+      "expected_sections": ["Section 302", "Section 304", "Section 304A"],
+      "expected_terms": ["punishment", "murder", "culpable homicide", "negligence"],
+      "expected_semantic_terms": ["sentencing gradation", "punishment scale", "severity determination"],
+      "category": "sentencing"
+    },
+    {
+      "query": "What legal procedures apply when someone confesses to a crime during investigation?",
+      "expected_sections": ["Section 164", "Evidence Act Section 24"],
+      "expected_terms": ["confession", "investigation", "procedure"],
+      "expected_semantic_terms": ["confession procedure", "recording confession", "confession validity"],
+      "category": "procedural_concept"
+    },
+    {
+      "query": "How do courts handle cases where multiple people claim responsibility for the same crime?",
+      "expected_sections": ["Section 34", "Section 149"],
+      "expected_terms": ["joint liability", "common intention", "unlawful assembly"],
+      "expected_semantic_terms": ["multiple confessions", "shared responsibility", "collective guilt"],
+      "category": "legal_analysis"
+    },
+    {
+      "query": "What constitutes valid proof when the victim is unable to testify?",
+      "expected_sections": ["Evidence Act Section 32", "Section 33"],
+      "expected_terms": ["dying declaration", "victim testimony", "admissibility"],
+      "expected_semantic_terms": ["unavailable witness", "alternative proof", "hearsay exception"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "How is the time of death established in murder investigations?",
+      "expected_sections": ["Evidence Act Section 45", "Section 60"],
+      "expected_terms": ["forensic evidence", "expert testimony", "medical evidence"],
+      "expected_semantic_terms": ["time of death", "medical examination", "autopsy report", "scientific evidence"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What legal standard must be met to prove criminal negligence causing death?",
+      "expected_sections": ["Section 304A", "Section 299"],
+      "expected_terms": ["negligence", "rash act", "death"],
+      "expected_semantic_terms": ["criminal negligence", "negligence standard", "duty of care"],
+      "category": "legal_analysis"
+    },
+    {
+      "query": "How do courts evaluate the credibility of confessions made to investigating officers?",
+      "expected_sections": ["Evidence Act Section 25", "Section 26"],
+      "expected_terms": ["confession", "credibility", "police"],
+      "expected_semantic_terms": ["confession reliability", "police confession validity", "credibility assessment"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What protections exist for statements made by accused persons during police custody?",
+      "expected_sections": ["Evidence Act Section 25", "Article 20", "Article 21"],
+      "expected_terms": ["custody", "statement", "protection"],
+      "expected_semantic_terms": ["police custody rights", "statement protection", "custodial interrogation"],
+      "category": "constitutional_rights"
+    },
+    {
+      "query": "How are alternative theories of the crime evaluated when evidence supports multiple scenarios?",
+      "expected_sections": ["Evidence Act Section 3", "Section 5"],
+      "expected_terms": ["alternative theories", "evidence", "reasonable doubt"],
+      "expected_semantic_terms": ["alternative explanations", "multiple scenarios", "evidence interpretation"],
+      "category": "evidence_law"
+    },
+    {
+      "query": "What determines whether a killing falls under murder or the less serious offense of culpable homicide?",
+      "expected_sections": ["Section 300", "Section 302", "Section 304"],
+      "expected_terms": ["murder", "culpable homicide", "distinction"],
+      "expected_semantic_terms": ["murder vs culpable homicide", "offense classification", "severity distinction"],
+      "category": "legal_distinction"
+    }
+  ]
+}

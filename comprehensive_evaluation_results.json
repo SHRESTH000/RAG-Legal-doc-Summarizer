@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "total_queries": 43,
+    "metrics": {
+      "precision@3": {
+        "bm25_mean": 0.6124031007751938,
+        "hybrid_mean": 0.6046511627906976,
+        "improvement_pct": -1.2658227848101289
+      },
+      "recall@3": {
+        "bm25_mean": 0.0008817248818777658,
+        "hybrid_mean": 0.0008689539791026488,
+        "improvement_pct": -1.4483999530465128
+      },
+      "f1@3": {
+        "bm25_mean": 0.0017583946008827185,
+        "hybrid_mean": 0.0017328948048810865,
+        "improvement_pct": -1.4501748349790802
+      },
+      "precision@5": {
+        "bm25_mean": 0.6093023255813953,
+        "hybrid_mean": 0.6046511627906976,
+        "improvement_pct": -0.763358778625952
+      },
+      "recall@5": {
+        "bm25_mean": 0.001477379738234828,
+        "hybrid_mean": 0.0014646088354597108,
+        "improvement_pct": -0.8644292624708638
+      },
+      "f1@5": {
+        "bm25_mean": 0.0029405660911865006,
+        "hybrid_mean": 0.002915094224862855,
+        "improvement_pct": -0.8662232214399197
+      },
+      "precision@10": {
+        "bm25_mean": 0.5837209302325582,
+        "hybrid_mean": 0.5813953488372093,
+        "improvement_pct": -0.3984063745020003
+      },
+      "recall@10": {
+        "bm25_mean": 0.002550309277534821,
+        "hybrid_mean": 0.002537538374759704,
+        "improvement_pct": -0.5007589819640024
+      },
+      "f1@10": {
+        "bm25_mean": 0.005061462583331709,
+        "hybrid_mean": 0.005036060274261815,
+        "improvement_pct": -0.5018768518322917
+      },
+      "mrr": {
+        "bm25_mean": 0.6229394840165954,
+        "hybrid_mean": 0.6229394840165954,
+        "improvement_pct": 0.0
+      }
+    }
+  },
+  "statistical_tests": [
+    {
+      "metric": "precision@3",
+      "is_significant": 

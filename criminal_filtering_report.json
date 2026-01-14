@@ -1,0 +1,33 @@
+{
+  "total_criminal_cases": 296,
+  "sample_size": 30,
+  "average_confidence": 0.9377777777777777,
+  "min_confidence": 0.36666666666666664,
+  "max_confidence": 1.0,
+  "confidence_distribution": {
+    "high": 27,
+    "medium": 2,
+    "low": 1
+  },
+  "top_indicators": {
+    "Accused": 27,
+    "Criminal Appeal": 26,
+    "Prosecution": 25,
+    "Penal": 20,
+    "IPC": 20,
+    "Offence": 18,
+    "Conviction": 16,
+    "Common IPC Sections": 15,
+    "IPC Section": 11,
+    "Indian Penal Code": 9,
+    "Acquittal": 8,
+    "State of X vs": 4,
+    "Criminal Proceedings": 4,
+    "Punishment": 4,
+    "Criminal Case": 3,
+    "Offender": 3,
+    "Criminal Law": 2,
+    "Bail": 2,
+    "Crl.A. Number": 1
+  }
+}

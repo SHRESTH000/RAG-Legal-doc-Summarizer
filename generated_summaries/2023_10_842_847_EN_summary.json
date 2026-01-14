@@ -1,0 +1,29 @@
+{
+  "case_number": "2023_10_842_847_EN",
+  "judgment_id": 61,
+  "title": "A B C",
+  "date": "2023-03-30",
+  "court": "Supreme Court of India",
+  "year": 2023,
+  "summary": "Case Summary: The case involves a challenge to the jurisdiction of the National Investigation Agency (NIA) in investigating certain cases, specifically six FIRs registered between March 30 and April 3, 2023, which were initially handled by state police authorities.\n\nKey Issues:\n- Whether the Central Government has the power to handover investigation to the NIA once it has been completed by the District Police (Issue 1)\n- Whether the Order of Sanction dated July 22, 2020, issued under Section 45(2) of UAPA suffers from any illegality (Issue 2)\n- Whether the order taking cognizance against the petitioner under Sections 120B IPC, 17 UAPA, and 17 CLA Act, 1908 is valid (Issue 3)\n\nLegal Analysis: The court determined that the NIA has exercised its jurisdiction specifically with reference to its powers under Section 6(5) of the National Investigation Agency Act, 2008. The court clarified that it is not called upon to decide on the sufficiency of the allegations or their veracity but rather whether the exercise of jurisdiction by the Central Government under Section 6(5) is valid.\n\nJudgment: The Special Leave Petitions were disposed of, and the observations made by the High Court in the impugned order would be confined to the question as to whether the exercise of jurisdiction by the NIA under the National Investigation Agency Act, 2008 is valid. For these reasons, the court affirmed the judgment of the High Court.\n\nKey Entities:\n- Parties: The State of West Bengal & Ors., Suvendu Adhikari & Ors.\n- Judges: Dr. Dhananjay A Y Chandrachud (CJI)\n- Case Number: 2023_10_842_847_EN\n- Date: March 30, 2023 (notification), May 8, 2023 (registration of FIRs), April 27, 2023 (High Court directions), and May 11, 2023 (cognizance taken",
+  "summary_result": {
+    "case_summary": "The case involves a challenge to the jurisdiction of the National Investigation Agency (NIA) in investigating certain cases, specifically six FIRs registered between March 30 and April 3, 2023, which were initially handled by state police authorities.",
+    "key_issues": [
+      "Whether the Central Government has the power to handover investigation to the NIA once it has been completed by the District Police (Issue 1)",
+      "Whether the Order of Sanction dated July 22, 2020, issued under Section 45(2) of UAPA suffers from any illegality (Issue 2)",
+      "Whether the order taking cognizance against the petitioner under Sections 120B IPC, 17 UAPA, and 17 CLA Act, 1908 is valid (Issue 3)"
+    ],
+    "legal_analysis": "The court determined that the NIA has exercised its jurisdiction specifically with reference to its powers under Section 6(5) of the National Investigation Agency Act, 2008. The court clarified that it is not called upon to decide on the sufficiency of the allegations or their veracity but rather whether the exercise of jurisdiction by the Central Government under Section 6(5) is valid.",
+    "relevant_sections": [],
+    "judgment": "The Special Leave Petitions were disposed of, and the observations made by the High Court in the impugned order would be confined to the question as to whether the exercise of jurisdiction by the NIA under the National Investigation Agency Act, 2008 is valid. For these reasons, the court affirmed the judgment of the High Court."
+  },
+  "rag_metadata": {
+    "entities_found": 0,
+    "chunks_retrieved": 5,
+    "dark_zones_found": 0,
+    "legal_sections_retrieved": false
+  },
+  "compression_ratio": 0.3488,
+  "generated_at": "2026-01-13T19:39:50.985440",
+  "model": "mistral"
+}

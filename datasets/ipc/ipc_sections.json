@@ -1,0 +1,4538 @@
+{
+  "dataset_name": "Indian Penal Code (IPC)",
+  "total_sections": 302,
+  "act_name": "Indian Penal Code, 1860",
+  "act_year": 1860,
+  "sections": [
+    {
+      "section_number": 1,
+      "title": "Section 1",
+      "text": "[Text for IPC Section 1 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 1,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 2,
+      "title": "Section 2",
+      "text": "[Text for IPC Section 2 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 3,
+      "title": "Section 3",
+      "text": "[Text for IPC Section 3 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 4,
+      "title": "Section 4",
+      "text": "[Text for IPC Section 4 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 5,
+      "title": "Section 5",
+      "text": "[Text for IPC Section 5 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 6,
+      "title": "Section 6",
+      "text": "[Text for IPC Section 6 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 7,
+      "title": "Section 7",
+      "text": "[Text for IPC Section 7 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 8,
+      "title": "Section 8",
+      "text": "[Text for IPC Section 8 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 9,
+      "title": "Section 9",
+      "text": "[Text for IPC Section 9 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 10,
+      "title": "Section 10",
+      "text": "[Text for IPC Section 10 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 11,
+      "title": "Section 11",
+      "text": "[Text for IPC Section 11 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 12,
+      "title": "Section 12",
+      "text": "[Text for IPC Section 12 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 13,
+      "title": "Section 13",
+      "text": "[Text for IPC Section 13 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 14,
+      "title": "Section 14",
+      "text": "[Text for IPC Section 14 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 15,
+      "title": "Section 15",
+      "text": "[Text for IPC Section 15 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 16,
+      "title": "Section 16",
+      "text": "[Text for IPC Section 16 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 17,
+      "title": "Section 17",
+      "text": "[Text for IPC Section 17 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 18,
+      "title": "Section 18",
+      "text": "[Text for IPC Section 18 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 19,
+      "title": "Section 19",
+      "text": "[Text for IPC Section 19 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 20,
+      "title": "Section 20",
+      "text": "[Text for IPC Section 20 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 21,
+      "title": "Section 21",
+      "text": "[Text for IPC Section 21 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 22,
+      "title": "Section 22",
+      "text": "[Text for IPC Section 22 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 23,
+      "title": "Section 23",
+      "text": "[Text for IPC Section 23 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 24,
+      "title": "Section 24",
+      "text": "[Text for IPC Section 24 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 25,
+      "title": "Section 25",
+      "text": "[Text for IPC Section 25 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 26,
+      "title": "Section 26",
+      "text": "[Text for IPC Section 26 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 27,
+      "title": "Section 27",
+      "text": "[Text for IPC Section 27 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 28,
+      "title": "Section 28",
+      "text": "[Text for IPC Section 28 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 29,
+      "title": "Section 29",
+      "text": "[Text for IPC Section 29 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 30,
+      "title": "Section 30",
+      "text": "[Text for IPC Section 30 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 31,
+      "title": "Section 31",
+      "text": "[Text for IPC Section 31 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 32,
+      "title": "Section 32",
+      "text": "[Text for IPC Section 32 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 33,
+      "title": "Section 33",
+      "text": "[Text for IPC Section 33 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 34,
+      "title": "Section 34",
+      "text": "[Text for IPC Section 34 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 35,
+      "title": "Section 35",
+      "text": "[Text for IPC Section 35 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 36,
+      "title": "Section 36",
+      "text": "[Text for IPC Section 36 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 37,
+      "title": "Section 37",
+      "text": "[Text for IPC Section 37 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 38,
+      "title": "Section 38",
+      "text": "[Text for IPC Section 38 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 39,
+      "title": "Section 39",
+      "text": "[Text for IPC Section 39 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 40,
+      "title": "Section 40",
+      "text": "[Text for IPC Section 40 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 41,
+      "title": "Section 41",
+      "text": "[Text for IPC Section 41 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 42,
+      "title": "Section 42",
+      "text": "[Text for IPC Section 42 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 43,
+      "title": "Section 43",
+      "text": "[Text for IPC Section 43 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 44,
+      "title": "Section 44",
+      "text": "[Text for IPC Section 44 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 45,
+      "title": "Section 45",
+      "text": "[Text for IPC Section 45 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 46,
+      "title": "Section 46",
+      "text": "[Text for IPC Section 46 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 47,
+      "title": "Section 47",
+      "text": "[Text for IPC Section 47 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 48,
+      "title": "Section 48",
+      "text": "[Text for IPC Section 48 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 49,
+      "title": "Section 49",
+      "text": "[Text for IPC Section 49 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 50,
+      "title": "Section 50",
+      "text": "[Text for IPC Section 50 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 51,
+      "title": "Section 51",
+      "text": "[Text for IPC Section 51 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 52,
+      "title": "Section 52",
+      "text": "[Text for IPC Section 52 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 2,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 53,
+      "title": "Section 53",
+      "text": "[Text for IPC Section 53 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 54,
+      "title": "Section 54",
+      "text": "[Text for IPC Section 54 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 55,
+      "title": "Section 55",
+      "text": "[Text for IPC Section 55 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 56,
+      "title": "Section 56",
+      "text": "[Text for IPC Section 56 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 57,
+      "title": "Section 57",
+      "text": "[Text for IPC Section 57 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 58,
+      "title": "Section 58",
+      "text": "[Text for IPC Section 58 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 59,
+      "title": "Section 59",
+      "text": "[Text for IPC Section 59 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 60,
+      "title": "Section 60",
+      "text": "[Text for IPC Section 60 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 61,
+      "title": "Section 61",
+      "text": "[Text for IPC Section 61 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 62,
+      "title": "Section 62",
+      "text": "[Text for IPC Section 62 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 63,
+      "title": "Section 63",
+      "text": "[Text for IPC Section 63 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 64,
+      "title": "Section 64",
+      "text": "[Text for IPC Section 64 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 65,
+      "title": "Section 65",
+      "text": "[Text for IPC Section 65 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 66,
+      "title": "Section 66",
+      "text": "[Text for IPC Section 66 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 67,
+      "title": "Section 67",
+      "text": "[Text for IPC Section 67 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 68,
+      "title": "Section 68",
+      "text": "[Text for IPC Section 68 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 69,
+      "title": "Section 69",
+      "text": "[Text for IPC Section 69 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 70,
+      "title": "Section 70",
+      "text": "[Text for IPC Section 70 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 71,
+      "title": "Section 71",
+      "text": "[Text for IPC Section 71 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 72,
+      "title": "Section 72",
+      "text": "[Text for IPC Section 72 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 73,
+      "title": "Section 73",
+      "text": "[Text for IPC Section 73 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 74,
+      "title": "Section 74",
+      "text": "[Text for IPC Section 74 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 75,
+      "title": "Section 75",
+      "text": "[Text for IPC Section 75 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 3,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 76,
+      "title": "Section 76",
+      "text": "[Text for IPC Section 76 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 77,
+      "title": "Section 77",
+      "text": "[Text for IPC Section 77 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 78,
+      "title": "Section 78",
+      "text": "[Text for IPC Section 78 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 79,
+      "title": "Section 79",
+      "text": "[Text for IPC Section 79 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 80,
+      "title": "Section 80",
+      "text": "[Text for IPC Section 80 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 81,
+      "title": "Section 81",
+      "text": "[Text for IPC Section 81 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 82,
+      "title": "Section 82",
+      "text": "[Text for IPC Section 82 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 83,
+      "title": "Section 83",
+      "text": "[Text for IPC Section 83 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 84,
+      "title": "Section 84",
+      "text": "[Text for IPC Section 84 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 85,
+      "title": "Section 85",
+      "text": "[Text for IPC Section 85 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 86,
+      "title": "Section 86",
+      "text": "[Text for IPC Section 86 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 87,
+      "title": "Section 87",
+      "text": "[Text for IPC Section 87 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 88,
+      "title": "Section 88",
+      "text": "[Text for IPC Section 88 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 89,
+      "title": "Section 89",
+      "text": "[Text for IPC Section 89 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 90,
+      "title": "Section 90",
+      "text": "[Text for IPC Section 90 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 91,
+      "title": "Section 91",
+      "text": "[Text for IPC Section 91 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 92,
+      "title": "Section 92",
+      "text": "[Text for IPC Section 92 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 93,
+      "title": "Section 93",
+      "text": "[Text for IPC Section 93 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 94,
+      "title": "Section 94",
+      "text": "[Text for IPC Section 94 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 95,
+      "title": "Section 95",
+      "text": "[Text for IPC Section 95 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 96,
+      "title": "Section 96",
+      "text": "[Text for IPC Section 96 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 97,
+      "title": "Section 97",
+      "text": "[Text for IPC Section 97 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 98,
+      "title": "Section 98",
+      "text": "[Text for IPC Section 98 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 99,
+      "title": "Section 99",
+      "text": "[Text for IPC Section 99 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 100,
+      "title": "Section 100",
+      "text": "[Text for IPC Section 100 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 101,
+      "title": "Section 101",
+      "text": "[Text for IPC Section 101 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 102,
+      "title": "Section 102",
+      "text": "[Text for IPC Section 102 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 103,
+      "title": "Section 103",
+      "text": "[Text for IPC Section 103 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 104,
+      "title": "Section 104",
+      "text": "[Text for IPC Section 104 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 105,
+      "title": "Section 105",
+      "text": "[Text for IPC Section 105 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 106,
+      "title": "Section 106",
+      "text": "[Text for IPC Section 106 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 4,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 107,
+      "title": "Section 107",
+      "text": "[Text for IPC Section 107 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 108,
+      "title": "Section 108",
+      "text": "[Text for IPC Section 108 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 109,
+      "title": "Section 109",
+      "text": "[Text for IPC Section 109 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 110,
+      "title": "Section 110",
+      "text": "[Text for IPC Section 110 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 111,
+      "title": "Section 111",
+      "text": "[Text for IPC Section 111 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 112,
+      "title": "Section 112",
+      "text": "[Text for IPC Section 112 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 113,
+      "title": "Section 113",
+      "text": "[Text for IPC Section 113 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 114,
+      "title": "Section 114",
+      "text": "[Text for IPC Section 114 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 115,
+      "title": "Section 115",
+      "text": "[Text for IPC Section 115 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 116,
+      "title": "Section 116",
+      "text": "[Text for IPC Section 116 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 117,
+      "title": "Section 117",
+      "text": "[Text for IPC Section 117 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 118,
+      "title": "Section 118",
+      "text": "[Text for IPC Section 118 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 119,
+      "title": "Section 119",
+      "text": "[Text for IPC Section 119 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 120,
+      "title": "Section 120",
+      "text": "[Text for IPC Section 120 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 5,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 121,
+      "title": "Section 121",
+      "text": "[Text for IPC Section 121 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 122,
+      "title": "Section 122",
+      "text": "[Text for IPC Section 122 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 123,
+      "title": "Section 123",
+      "text": "[Text for IPC Section 123 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 124,
+      "title": "Section 124",
+      "text": "[Text for IPC Section 124 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 125,
+      "title": "Section 125",
+      "text": "[Text for IPC Section 125 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 126,
+      "title": "Section 126",
+      "text": "[Text for IPC Section 126 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 127,
+      "title": "Section 127",
+      "text": "[Text for IPC Section 127 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 128,
+      "title": "Section 128",
+      "text": "[Text for IPC Section 128 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 129,
+      "title": "Section 129",
+      "text": "[Text for IPC Section 129 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 130,
+      "title": "Section 130",
+      "text": "[Text for IPC Section 130 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 7,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 131,
+      "title": "Section 131",
+      "text": "[Text for IPC Section 131 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 132,
+      "title": "Section 132",
+      "text": "[Text for IPC Section 132 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 133,
+      "title": "Section 133",
+      "text": "[Text for IPC Section 133 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 134,
+      "title": "Section 134",
+      "text": "[Text for IPC Section 134 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 135,
+      "title": "Section 135",
+      "text": "[Text for IPC Section 135 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 136,
+      "title": "Section 136",
+      "text": "[Text for IPC Section 136 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 137,
+      "title": "Section 137",
+      "text": "[Text for IPC Section 137 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 138,
+      "title": "Section 138",
+      "text": "[Text for IPC Section 138 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 139,
+      "title": "Section 139",
+      "text": "[Text for IPC Section 139 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 140,
+      "title": "Section 140",
+      "text": "[Text for IPC Section 140 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 8,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 141,
+      "title": "Section 141",
+      "text": "[Text for IPC Section 141 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 142,
+      "title": "Section 142",
+      "text": "[Text for IPC Section 142 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 143,
+      "title": "Section 143",
+      "text": "[Text for IPC Section 143 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 144,
+      "title": "Section 144",
+      "text": "[Text for IPC Section 144 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 145,
+      "title": "Section 145",
+      "text": "[Text for IPC Section 145 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 146,
+      "title": "Section 146",
+      "text": "[Text for IPC Section 146 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 147,
+      "title": "Section 147",
+      "text": "[Text for IPC Section 147 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 148,
+      "title": "Section 148",
+      "text": "[Text for IPC Section 148 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 149,
+      "title": "Section 149",
+      "text": "[Text for IPC Section 149 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 150,
+      "title": "Section 150",
+      "text": "[Text for IPC Section 150 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 151,
+      "title": "Section 151",
+      "text": "[Text for IPC Section 151 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 152,
+      "title": "Section 152",
+      "text": "[Text for IPC Section 152 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 153,
+      "title": "Section 153",
+      "text": "[Text for IPC Section 153 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 154,
+      "title": "Section 154",
+      "text": "[Text for IPC Section 154 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 155,
+      "title": "Section 155",
+      "text": "[Text for IPC Section 155 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 156,
+      "title": "Section 156",
+      "text": "[Text for IPC Section 156 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 157,
+      "title": "Section 157",
+      "text": "[Text for IPC Section 157 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 158,
+      "title": "Section 158",
+      "text": "[Text for IPC Section 158 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 159,
+      "title": "Section 159",
+      "text": "[Text for IPC Section 159 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 160,
+      "title": "Section 160",
+      "text": "[Text for IPC Section 160 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 161,
+      "title": "Section 161",
+      "text": "[Text for IPC Section 161 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 1,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 162,
+      "title": "Section 162",
+      "text": "[Text for IPC Section 162 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 1,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 163,
+      "title": "Section 163",
+      "text": "[Text for IPC Section 163 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 1,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 164,
+      "title": "Section 164",
+      "text": "[Text for IPC Section 164 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 1,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 165,
+      "title": "Section 165",
+      "text": "[Text for IPC Section 165 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 1,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 166,
+      "title": "Section 166",
+      "text": "[Text for IPC Section 166 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 167,
+      "title": "Section 167",
+      "text": "[Text for IPC Section 167 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 168,
+      "title": "Section 168",
+      "text": "[Text for IPC Section 168 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 169,
+      "title": "Section 169",
+      "text": "[Text for IPC Section 169 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 170,
+      "title": "Section 170",
+      "text": "[Text for IPC Section 170 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 171,
+      "title": "Section 171",
+      "text": "[Text for IPC Section 171 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 9,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 172,
+      "title": "Section 172",
+      "text": "[Text for IPC Section 172 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 173,
+      "title": "Section 173",
+      "text": "[Text for IPC Section 173 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 174,
+      "title": "Section 174",
+      "text": "[Text for IPC Section 174 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 175,
+      "title": "Section 175",
+      "text": "[Text for IPC Section 175 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 176,
+      "title": "Section 176",
+      "text": "[Text for IPC Section 176 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 177,
+      "title": "Section 177",
+      "text": "[Text for IPC Section 177 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 178,
+      "title": "Section 178",
+      "text": "[Text for IPC Section 178 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 179,
+      "title": "Section 179",
+      "text": "[Text for IPC Section 179 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 180,
+      "title": "Section 180",
+      "text": "[Text for IPC Section 180 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 181,
+      "title": "Section 181",
+      "text": "[Text for IPC Section 181 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 182,
+      "title": "Section 182",
+      "text": "[Text for IPC Section 182 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 183,
+      "title": "Section 183",
+      "text": "[Text for IPC Section 183 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 184,
+      "title": "Section 184",
+      "text": "[Text for IPC Section 184 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 185,
+      "title": "Section 185",
+      "text": "[Text for IPC Section 185 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 186,
+      "title": "Section 186",
+      "text": "[Text for IPC Section 186 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 187,
+      "title": "Section 187",
+      "text": "[Text for IPC Section 187 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 188,
+      "title": "Section 188",
+      "text": "[Text for IPC Section 188 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 189,
+      "title": "Section 189",
+      "text": "[Text for IPC Section 189 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 190,
+      "title": "Section 190",
+      "text": "[Text for IPC Section 190 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 10,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 191,
+      "title": "Section 191",
+      "text": "[Text for IPC Section 191 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 192,
+      "title": "Section 192",
+      "text": "[Text for IPC Section 192 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 193,
+      "title": "Section 193",
+      "text": "[Text for IPC Section 193 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 194,
+      "title": "Section 194",
+      "text": "[Text for IPC Section 194 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 195,
+      "title": "Section 195",
+      "text": "[Text for IPC Section 195 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 196,
+      "title": "Section 196",
+      "text": "[Text for IPC Section 196 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 197,
+      "title": "Section 197",
+      "text": "[Text for IPC Section 197 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 198,
+      "title": "Section 198",
+      "text": "[Text for IPC Section 198 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 199,
+      "title": "Section 199",
+      "text": "[Text for IPC Section 199 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 200,
+      "title": "Section 200",
+      "text": "[Text for IPC Section 200 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 201,
+      "title": "Section 201",
+      "text": "[Text for IPC Section 201 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 202,
+      "title": "Section 202",
+      "text": "[Text for IPC Section 202 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 203,
+      "title": "Section 203",
+      "text": "[Text for IPC Section 203 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 204,
+      "title": "Section 204",
+      "text": "[Text for IPC Section 204 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 205,
+      "title": "Section 205",
+      "text": "[Text for IPC Section 205 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 206,
+      "title": "Section 206",
+      "text": "[Text for IPC Section 206 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 207,
+      "title": "Section 207",
+      "text": "[Text for IPC Section 207 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 208,
+      "title": "Section 208",
+      "text": "[Text for IPC Section 208 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 209,
+      "title": "Section 209",
+      "text": "[Text for IPC Section 209 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 210,
+      "title": "Section 210",
+      "text": "[Text for IPC Section 210 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 211,
+      "title": "Section 211",
+      "text": "[Text for IPC Section 211 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 212,
+      "title": "Section 212",
+      "text": "[Text for IPC Section 212 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 213,
+      "title": "Section 213",
+      "text": "[Text for IPC Section 213 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 214,
+      "title": "Section 214",
+      "text": "[Text for IPC Section 214 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 215,
+      "title": "Section 215",
+      "text": "[Text for IPC Section 215 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 216,
+      "title": "Section 216",
+      "text": "[Text for IPC Section 216 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 217,
+      "title": "Section 217",
+      "text": "[Text for IPC Section 217 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 218,
+      "title": "Section 218",
+      "text": "[Text for IPC Section 218 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 219,
+      "title": "Section 219",
+      "text": "[Text for IPC Section 219 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 220,
+      "title": "Section 220",
+      "text": "[Text for IPC Section 220 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 221,
+      "title": "Section 221",
+      "text": "[Text for IPC Section 221 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 222,
+      "title": "Section 222",
+      "text": "[Text for IPC Section 222 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 223,
+      "title": "Section 223",
+      "text": "[Text for IPC Section 223 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 224,
+      "title": "Section 224",
+      "text": "[Text for IPC Section 224 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 225,
+      "title": "Section 225",
+      "text": "[Text for IPC Section 225 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 226,
+      "title": "Section 226",
+      "text": "[Text for IPC Section 226 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 227,
+      "title": "Section 227",
+      "text": "[Text for IPC Section 227 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 228,
+      "title": "Section 228",
+      "text": "[Text for IPC Section 228 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 229,
+      "title": "Section 229",
+      "text": "[Text for IPC Section 229 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 11,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 230,
+      "title": "Section 230",
+      "text": "[Text for IPC Section 230 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 231,
+      "title": "Section 231",
+      "text": "[Text for IPC Section 231 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 232,
+      "title": "Section 232",
+      "text": "[Text for IPC Section 232 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 233,
+      "title": "Section 233",
+      "text": "[Text for IPC Section 233 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 234,
+      "title": "Section 234",
+      "text": "[Text for IPC Section 234 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 235,
+      "title": "Section 235",
+      "text": "[Text for IPC Section 235 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 236,
+      "title": "Section 236",
+      "text": "[Text for IPC Section 236 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 237,
+      "title": "Section 237",
+      "text": "[Text for IPC Section 237 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 238,
+      "title": "Section 238",
+      "text": "[Text for IPC Section 238 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 239,
+      "title": "Section 239",
+      "text": "[Text for IPC Section 239 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 240,
+      "title": "Section 240",
+      "text": "[Text for IPC Section 240 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 241,
+      "title": "Section 241",
+      "text": "[Text for IPC Section 241 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 242,
+      "title": "Section 242",
+      "text": "[Text for IPC Section 242 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 243,
+      "title": "Section 243",
+      "text": "[Text for IPC Section 243 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 244,
+      "title": "Section 244",
+      "text": "[Text for IPC Section 244 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 245,
+      "title": "Section 245",
+      "text": "[Text for IPC Section 245 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 246,
+      "title": "Section 246",
+      "text": "[Text for IPC Section 246 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 247,
+      "title": "Section 247",
+      "text": "[Text for IPC Section 247 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 248,
+      "title": "Section 248",
+      "text": "[Text for IPC Section 248 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 249,
+      "title": "Section 249",
+      "text": "[Text for IPC Section 249 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 250,
+      "title": "Section 250",
+      "text": "[Text for IPC Section 250 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 251,
+      "title": "Section 251",
+      "text": "[Text for IPC Section 251 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 252,
+      "title": "Section 252",
+      "text": "[Text for IPC Section 252 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 253,
+      "title": "Section 253",
+      "text": "[Text for IPC Section 253 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 254,
+      "title": "Section 254",
+      "text": "[Text for IPC Section 254 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 255,
+      "title": "Section 255",
+      "text": "[Text for IPC Section 255 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 256,
+      "title": "Section 256",
+      "text": "[Text for IPC Section 256 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 257,
+      "title": "Section 257",
+      "text": "[Text for IPC Section 257 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 258,
+      "title": "Section 258",
+      "text": "[Text for IPC Section 258 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 259,
+      "title": "Section 259",
+      "text": "[Text for IPC Section 259 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 260,
+      "title": "Section 260",
+      "text": "[Text for IPC Section 260 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 261,
+      "title": "Section 261",
+      "text": "[Text for IPC Section 261 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 262,
+      "title": "Section 262",
+      "text": "[Text for IPC Section 262 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 263,
+      "title": "Section 263",
+      "text": "[Text for IPC Section 263 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 12,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 264,
+      "title": "Section 264",
+      "text": "[Text for IPC Section 264 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 13,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 265,
+      "title": "Section 265",
+      "text": "[Text for IPC Section 265 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 13,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 266,
+      "title": "Section 266",
+      "text": "[Text for IPC Section 266 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 13,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 267,
+      "title": "Section 267",
+      "text": "[Text for IPC Section 267 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 13,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 268,
+      "title": "Section 268",
+      "text": "[Text for IPC Section 268 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 269,
+      "title": "Section 269",
+      "text": "[Text for IPC Section 269 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 270,
+      "title": "Section 270",
+      "text": "[Text for IPC Section 270 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 271,
+      "title": "Section 271",
+      "text": "[Text for IPC Section 271 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 272,
+      "title": "Section 272",
+      "text": "[Text for IPC Section 272 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 273,
+      "title": "Section 273",
+      "text": "[Text for IPC Section 273 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 274,
+      "title": "Section 274",
+      "text": "[Text for IPC Section 274 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 275,
+      "title": "Section 275",
+      "text": "[Text for IPC Section 275 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 276,
+      "title": "Section 276",
+      "text": "[Text for IPC Section 276 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 277,
+      "title": "Section 277",
+      "text": "[Text for IPC Section 277 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 278,
+      "title": "Section 278",
+      "text": "[Text for IPC Section 278 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 279,
+      "title": "Section 279",
+      "text": "[Text for IPC Section 279 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 280,
+      "title": "Section 280",
+      "text": "[Text for IPC Section 280 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 281,
+      "title": "Section 281",
+      "text": "[Text for IPC Section 281 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 282,
+      "title": "Section 282",
+      "text": "[Text for IPC Section 282 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 283,
+      "title": "Section 283",
+      "text": "[Text for IPC Section 283 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 284,
+      "title": "Section 284",
+      "text": "[Text for IPC Section 284 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 285,
+      "title": "Section 285",
+      "text": "[Text for IPC Section 285 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 286,
+      "title": "Section 286",
+      "text": "[Text for IPC Section 286 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 287,
+      "title": "Section 287",
+      "text": "[Text for IPC Section 287 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 288,
+      "title": "Section 288",
+      "text": "[Text for IPC Section 288 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 289,
+      "title": "Section 289",
+      "text": "[Text for IPC Section 289 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 290,
+      "title": "Section 290",
+      "text": "[Text for IPC Section 290 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 291,
+      "title": "Section 291",
+      "text": "[Text for IPC Section 291 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 292,
+      "title": "Section 292",
+      "text": "[Text for IPC Section 292 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 293,
+      "title": "Section 293",
+      "text": "[Text for IPC Section 293 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 294,
+      "title": "Section 294",
+      "text": "[Text for IPC Section 294 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 14,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 295,
+      "title": "Section 295",
+      "text": "[Text for IPC Section 295 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 15,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 296,
+      "title": "Section 296",
+      "text": "[Text for IPC Section 296 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 15,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 297,
+      "title": "Section 297",
+      "text": "[Text for IPC Section 297 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 15,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 298,
+      "title": "Section 298",
+      "text": "[Text for IPC Section 298 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 15,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 299,
+      "title": "Section 299",
+      "text": "[Text for IPC Section 299 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 16,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 300,
+      "title": "Section 300",
+      "text": "[Text for IPC Section 300 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 16,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 301,
+      "title": "Section 301",
+      "text": "[Text for IPC Section 301 - to be populated from authoritative source]",
+      "classification": "",
+      "punishment": "",
+      "triable_by": "",
+      "compoundable": "",
+      "chapter": 16,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    },
+    {
+      "section_number": 302,
+      "title": "Punishment for Murder",
+      "text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+      "classification": "Cognizable, Non-bailable",
+      "punishment": "Death or Imprisonment for life, and fine",
+      "triable_by": "Court of Session",
+      "compoundable": "Non-compoundable",
+      "chapter": 16,
+      "metadata": {
+        "act": "Indian Penal Code, 1860",
+        "act_year": 1860,
+        "category": "Criminal Law"
+      }
+    }
+  ]
+}
